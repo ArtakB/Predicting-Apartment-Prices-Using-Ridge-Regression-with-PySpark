@@ -1,0 +1,1156 @@
+province,address,price,Construction Type,New Construction,Elevator,Floors in the Building,Floor Area,Number of Rooms,Number of Bathrooms,Ceiling Height,Floor,Balcony,Furniture,Renovation
+Kentron,"Kristapor street 20, Yerevan","$158,000",Stone,No,Not available,5,50,3,1,from 3 m,4,Closed balcony,Available,Designer Renovation
+Kentron,"Աբովյան փողոց, Երևան","$260,000",Stone,No,Not available,5,103,3,1,from 2.75 m,2,Closed balcony,Available,Cosmetic Renovation
+Kentron,"Улица Сарьяна 38, Yerevan","$205,000",Monolith,No,Available,16,100,3,1,from 2.7 m,13,Multiple balconies,Partial Furniture,Partial Renovation
+Kanaker-Zeytun,"Dro street, Yerevan","$119,000",Panels,No,Available,13,75,4,1,from 2.7 m,9,Not available,Available,Major Renovation
+Erebuni,"Rostovyan street, Yerevan","$45,000",Stone,No,Not available,5,29,1,1,from 2.7 m,1,Not available,Not available,Old Renovation
+Malatia-Sebastia,"Ohanov street 8, Yerevan","$105,000",Monolith,No,Available,14,83,3,2,from 2.6 m,12,Closed balcony,Available,Euro Renovation
+Arabkir,"Komitas avenu, Երևան","$157,000",Stone,No,Not available,5,79,3,1,from 3.5 m,2,Closed balcony,Available,Major Renovation
+Kentron,"Hanrapetutyun street 78, Yerevan","$410,000",Stone,No,Not available,3,110,3,1,from 3.2 m,2,Multiple balconies,Available,Major Renovation
+Kanaker-Zeytun,"Azatutyan Avenue lane 5, Yerevan","$88,000",Panels,No,Available,9,46,2,1,from 2.7 m,6,Open balcony,Not available,Designer Renovation
+Nor Nork,"Վիլնյուսի փողոց, Երևան","$105,000",Panels,No,Available,9,98,3,1,from 2.8 m,2,Closed balcony,By agreement,Major Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$140,000",Stone,No,Not available,5,70,3,1,from 3 m,5,Open balcony,Available,Euro Renovation
+Arabkir,"Aram Khachatryan street, Երևան","$139,000",Panels,No,Available,9,71,2,1,from 2.75 m,6,Open balcony,Available,Euro Renovation
+Arabkir,"Komitas avenu, Երևան","$229,000",Monolith,Yes,Available,14,87,3,2,from 3 m,14,Open balcony,Available,Designer Renovation
+Malatia-Sebastia,"Զորավար Անդրանիկի փողոց 10/3, Yerevan","$80,000",Panels,No,Available,14,54,2,1,from 3 m,13,Closed balcony,Partial Furniture,Major Renovation
+Nor Nork,"Ashot Hovhannisyan Street, Yerevan","$106,500",Panels,No,Available,9,78,3,1,from 2.7 m,3,Closed balcony,Available,Major Renovation
+Nor Nork,"Moldovakan street, Yerevan","$97,000",Monolith,Yes,Not available,6,60,2,1,from 2.8 m,1,Open balcony,Available,Major Renovation
+Kanaker-Zeytun,"Dro street 15, Yerevan","$75,000",Stone,No,Not available,5,35,1,1,from 2.8 m,4,Open balcony,Available,Cosmetic Renovation
+Kentron,"Rostom street, Yerevan","$395,000",Monolith,Yes,Available,16,162,4,2,from 3 m,6,Multiple balconies,By agreement,Major Renovation
+Arabkir,"Գյուլբենկյան փողոց, Երևան","$95,000",Stone,No,Not available,5,29,1,1,from 2.6 m,4,Open balcony,Available,Major Renovation
+Arabkir,"Վահրամ Փափազյան փողոց, Երևան","$140,000",Monolith,Yes,Available,9,44,2,1,from 3 m,8,Open balcony,Not available,Major Renovation
+Arabkir,"Avet Avetisyan Street, Yerevan","$250,000",Monolith,Yes,Available,10,132,4,2,from 3 m,9,Open balcony,Available,Euro Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$238,000",Stone,No,Not available,5,73,3,1,from 3 m,2,Closed balcony,Available,Major Renovation
+Davitashen,"Անաստաս Միկոյանի փողոց, Երևան","$285,000",Monolith,Yes,Available,12,155,4,2,from 3 m,11,Multiple balconies,Available,Major Renovation
+Davitashen,"Tigran Petrosyan street, Yerevan","$132,000",Monolith,Yes,Available,11,64,3,1,from 3 m,7,Not available,Available,Major Renovation
+Kanaker-Zeytun,"Կարապետ Ուլնեցու փողոց, Երևան","$265,000",Monolith,Yes,Available,16,82,3,1,from 3 m,6,Multiple balconies,Available,Major Renovation
+Nor Nork,"Artem Mikoyan street, Yerevan","$105,000",Stone,No,Not available,5,78,3,1,from 2.7 m,5,Open balcony,Available,Major Renovation
+Arabkir,"Monte Melkonyan Avenue, Yerevan","$179,900",Monolith,Yes,Available,17,100,3,2,from 3 m,14,Open balcony,Not available,No Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$265,000",Monolith,Yes,Available,14,94,3,2,from 3 m,7,Open balcony,Not available,No Renovation
+Nor Nork,"Totovents street 8/2, Yerevan","$88,000",Cassette,No,Not available,5,55,2,1,from 2.75 m,3,Closed balcony,Available,Major Renovation
+Nor Nork,"Moldovakan street, Երևան","$50,000",Panels,No,Available,18,40,2,1,from 2.75 m,6,Not available,Partial Furniture,Cosmetic Renovation
+Nor Nork,"Totovents street, Yerevan","$88,000",Panels,No,Available,9,51,2,1,from 2.8 m,3,Not available,Available,Euro Renovation
+Arabkir,"Նաիրի Զարյան փողոց, Երևան","$360,000",Monolith,Yes,Available,17,205,4,2,from 3 m,10,Open balcony,Not available,No Renovation
+Arabkir,"Գյուլբենկյան փողոց, Երևան","$125,000",Stone,No,Not available,5,56,2,1,from 2.7 m,5,Multiple balconies,By agreement,Partial Renovation
+Shengavit,"Arshakuniats Avenue 1st Lane 5, Yerevan","$70,000",Panels,No,Not available,5,55,3,1,from 2.8 m,1,Not available,Not available,Euro Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց, Երևան","$125,000",Panels,No,Available,9,82,3,1,from 2.7 m,3,Closed balcony,By agreement,Partial Renovation
+Arabkir,"Արմեն Տիգրանյանի փողոց, Երևան","$190,000",Monolith,Yes,Available,13,60,2,1,from 3 m,8,Open balcony,Available,Designer Renovation
+Kentron,"Amiryan Street, Yerevan","$170,000",Stone,No,Not available,5,63,3,1,from 2.8 m,2,Not available,Available,Major Renovation
+Arabkir,"Orbeli Brothers street, Yerevan","$228,000",Monolith,No,Available,9,99,2,1,from 2.8 m,8,Open balcony,Available,Designer Renovation
+Kentron,"Սերո Խանզադյանի փողոց 1-ին նրբանցք, Երևան","$292,000",Monolith,Yes,Available,17,94,3,2,from 3 m,7,Open balcony,Available,Designer Renovation
+Kentron,"Verin Antarayin Street, Yerevan","$168,000",Monolith,Yes,Available,5,42,2,1,from 3 m,2,Not available,Available,Designer Renovation
+Erebuni,"Արցախի պողոտա, Երևան","$95,000",Stone,No,Available,14,72,4,2,from 2.7 m,7,Closed balcony,By agreement,Partial Renovation
+Arabkir,"Malkhasyants street, Yerevan","$245,000",Monolith,Yes,Available,14,74,3,1,from 3 m,4,Open balcony,Available,Major Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$130,000",Monolith,Yes,Available,13,63,3,1,from 2.8 m,2,Not available,Available,Major Renovation
+Malatia-Sebastia,"Կուրղինյան փողոց, Երևան","$164,000",Stone,No,Not available,5,87,4,1,from 2.8 m,2,Multiple balconies,Available,Designer Renovation
+Nor Nork,"Nansen street, Yerevan","$60,000",Panels,No,Not available,5,37,1,1,from 2.7 m,5,Closed balcony,By agreement,Cosmetic Renovation
+Nor Nork,"Հայկ Գյուլիքևխյանի փողոց, Երևան","$97,000",Stone,No,Not available,5,74,3,2,from 2.8 m,4,Multiple balconies,By agreement,Cosmetic Renovation
+Arabkir,"Orbeli Brothers street, Yerevan","$185,000",Panels,No,Not available,10,79,3,1,from 2.7 m,9,Closed balcony,Available,Euro Renovation
+Arabkir,"Kievyan street, Yerevan","$185,000",Stone,No,Not available,4,88,3,1,from 3 m,3,Closed balcony,Partial Furniture,Old Renovation
+Nor Nork,"Vilnius St, Yerevan","$88,000",Panels,No,Available,9,80,3,2,from 2.75 m,3,Multiple balconies,Not available,Euro Renovation
+Arabkir,"Arabkir 25-th Street, Yerevan","$135,000",Monolith,No,Available,9,76,4,1,from 2.8 m,9,Not available,Available,Major Renovation
+Arabkir,"Aghbyur Serob street, Yerevan","$150,000",Stone,No,Not available,5,84,3,1,from 2.8 m,5,Open balcony,Available,Designer Renovation
+Davitashen,"Տիգրան Պետրոսյանի փողոց, Երևան","$135,000",Panels,No,Available,14,68,3,1,from 2.8 m,14,Not available,Partial Furniture,Designer Renovation
+Kanaker-Zeytun,"Ավետիս Ահարոնյանի փողոց, Երևան","$158,000",Monolith,Yes,Available,14,96,3,2,from 3 m,9,Open balcony,Not available,No Renovation
+Nor Nork,"Mar Street, Yerevan","$95,000",Stone,No,Not available,5,77,3,1,from 2.75 m,1,Multiple balconies,Not available,Partial Renovation
+Kentron,"Ler Kamsari Street, Yerevan","$260,000",Monolith,Yes,Available,9,107,4,1,from 3 m,2,Not available,Available,Major Renovation
+Arabkir,"Արաբկիրի 19-րդ փողոց, Երևան","$140,000",Panels,No,Available,9,73,3,1,from 2.75 m,6,Multiple balconies,Available,Major Renovation
+Kentron,"Verin Antarayin street, Yerevan","$270,000",Monolith,Yes,Available,7,92,3,2,from 3 m,3,Open balcony,Available,Designer Renovation
+Kanaker-Zeytun,"Ավետիս Ահարոնյանի փողոց, Երևան","$169,000",Monolith,Yes,Available,14,96,3,2,from 3 m,9,Open balcony,Not available,No Renovation
+Kentron,"Forest Street, Yerevan","$450,000",Monolith,Yes,Available,6,105,3,2,from 3 m,2,Open balcony,Not available,Major Renovation
+Ajapnyak,"Leninakan street, Yerevan","$85,000",Stone,No,Not available,5,72,3,1,from 2.75 m,1,Closed balcony,Not available,Partial Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$385,000",Monolith,Yes,Available,14,121,3,2,from 3 m,5,Multiple balconies,Available,Major Renovation
+Kentron,"Charents street, Yerevan","$155,000",Stone,No,Not available,5,72,2,1,from 3 m,1,Closed balcony,By agreement,Major Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$265,000",Monolith,No,Available,13,76,3,1,from 3 m,6,Open balcony,Available,Designer Renovation
+Shengavit,"Մանթաշյան փողոց 4/5, Երևան","$110,000",Panels,No,Available,9,78,3,1,from 2.75 m,1,Not available,By agreement,Old Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$130,000",Panels,No,Available,14,80,3,1,from 2.75 m,9,Closed balcony,Not available,Partial Renovation
+Arabkir,"Barbyus Street, Yerevan","$150,000",Stone,No,Not available,5,96,3,1,from 2.8 m,5,Closed balcony,Available,Old Renovation
+Kentron,"Glinka Street, Yerevan","$154,000",Panels,No,Available,9,90,3,1,from 2.75 m,3,Multiple balconies,Not available,Major Renovation
+Kentron,"Teryan street, Yerevan","$360,000",Stone,No,Not available,4,86,3,1,from 3 m,4,Multiple balconies,Not available,Cosmetic Renovation
+Kentron,"Մաշտոցի պողոտա, Երևան","$220,000",Stone,No,Not available,4,91,3,1,from 3 m,4,Multiple balconies,Not available,No Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$225,000",Panels,No,Available,10,95,3,1,from 2.8 m,5,Multiple balconies,Available,Euro Renovation
+Arabkir,Yerevan › Arabkir,"$185,000",Stone,No,Not available,4,108,3,1,from 2.75 m,3,Closed balcony,By agreement,Major Renovation
+Kentron,"Խորենացու փողոց, Երևան","$145,000",Panels,No,Available,16,82,3,1,from 2.75 m,14,Closed balcony,Available,Major Renovation
+Kentron,"Abovyan street, Երևան","$345,000",Stone,No,Not available,5,188,5,3+,from 3 m,4,Multiple balconies,By agreement,Major Renovation
+Kentron,"Charents street, Yerevan","$55,000",Panels,No,Available,14,34,1,1,from 2.75 m,1,Closed balcony,Not available,Old Renovation
+Kentron,"Aram Street, Yerevan","$285,000",Monolith,Yes,Available,8,68,3,2,from 3 m,2,Not available,Available,Major Renovation
+Kentron,"Saryan street, Երևան","$240,000",Panels,No,Available,11,66,2,1,from 2.8 m,5,Open balcony,By agreement,Designer Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$185,000",Stone,No,Not available,4,55,1,1,from 3 m,4,Multiple balconies,Available,Designer Renovation
+Davitashen,"Անաստաս Միկոյանի փողոց, Երևան","$205,000",Monolith,Yes,Available,12,155,3,1,from 3 m,10,Multiple balconies,Not available,No Renovation
+Nor Nork,"Գայի պողոտա, Երևան","$147,000",Monolith,Yes,Available,15,63,2,1,from 3 m,10,Open balcony,By agreement,Designer Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$220,000",Stone,No,Not available,5,67,3,1,from 3 m,2,Closed balcony,Partial Furniture,Major Renovation
+Arabkir,"Վաղարշ Վաղարշյան փողոց, Երևան","$96,000",Monolith,Yes,Available,7,35,1,1,from 3 m,2,Not available,Available,Major Renovation
+Arabkir,"Nikoghayos Adonts Street 4, Yerevan","$335,000",Stone,Yes,Available,8,123,4,2,from 3 m,6,Multiple balconies,Available,Designer Renovation
+Nor Nork,"Թևոսյան փողոց, Երևան","$55,000",Panels,Yes,Available,9,36,2,1,from 3 m,3,Not available,Not available,Euro Renovation
+Kanaker-Zeytun,"Azatutyan Avenue, Yerevan","$200,000",Monolith,Yes,Available,17,65,2,1,from 3 m,15,Open balcony,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$235,000",Monolith,Yes,Available,16,65,2,1,from 3 m,15,Open balcony,Not available,Major Renovation
+Shengavit,"Garegin Nzhdeh Street, Yerevan","$85,000",Stone,No,Not available,4,65,1,1,from 2.8 m,4,Not available,Available,Euro Renovation
+Kanaker-Zeytun,"David Anhaght street, Երևան","$164,000",Stone,No,Available,6,106,4,1,from 2.75 m,6,Not available,By agreement,Major Renovation
+Kentron,"Amiryan Street, Yerevan","$235,000",Stone,No,Not available,5,57,2,1,from 2.8 m,3,Closed balcony,Not available,Designer Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$130,000",Panels,No,Not available,5,100,3,1,from 2.75 m,3,Multiple balconies,Available,Major Renovation
+Avan,"Charents block, Yerevan","$105,000",Panels,No,Available,14,82,3,1,from 2.75 m,8,Multiple balconies,Available,Partial Renovation
+Avan,"Quchak block, Yerevan","$93,000",Panels,No,Available,9,53,2,1,from 2.75 m,8,Closed balcony,Available,Major Renovation
+Avan,"Sayat-Nova block, Yerevan","$105,000",Panels,No,Available,9,84,4,1,from 2.75 m,5,Multiple balconies,Available,No Renovation
+Avan,"Toumanyan block, Yerevan","$107,000",Panels,No,Available,9,88,4,1,from 2.75 m,8,Multiple balconies,Available,Partial Renovation
+Avan,"Toumanyan block, Yerevan","$100,000",Panels,No,Available,9,64,2,1,from 2.75 m,4,Multiple balconies,Available,Major Renovation
+Davitashen,"Սամվել Գևորգյան փողոց 4, Երևան","$155,000",Monolith,Yes,Available,16,94,4,2,from 3 m,7,Multiple balconies,Not available,No Renovation
+Arabkir,"Komitas avenu, Երևան","$125,000",Stone,No,Not available,5,56,2,1,from 2.75 m,5,Multiple balconies,By agreement,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$138,000",Panels,No,Available,9,98,4,1,from 2.8 m,3,Not available,Not available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$120,000",Panels,No,Available,14,88,3,1,from 2.8 m,13,Not available,Available,Euro Renovation
+Erebuni,"Արցախի պողոտա, Երևան","$99,800",Stone,No,Not available,3,82,3,1,from 2.8 m,3,Not available,Not available,Euro Renovation
+Arabkir,"Վիկտոր Համբարձումյան փողոց, Երևան","$142,000",Stone,No,Available,9,62,2,1,from 2.75 m,3,Open balcony,Not available,Major Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","$69,000",Stone,No,Not available,5,55,3,1,from 2.75 m,2,Multiple balconies,Not available,Old Renovation
+Nor Nork,"Թոթովենցի փողոց, Երևան","$61,500",Panels,No,Available,9,43,2,1,from 2.8 m,9,Closed balcony,Not available,Major Renovation
+Nor Nork,"Gai avenue, Yerevan","$67,000",Panels,No,Not available,5,56,2,1,from 2.7 m,1,Closed balcony,Not available,Old Renovation
+Nor Nork,"Գայի պողոտա, Երևան","$93,000",Panels,No,Available,9,83,4,1,from 2.8 m,1,Closed balcony,Partial Furniture,Cosmetic Renovation
+Nor Nork,"Nansen street, Yerevan","$75,000",Panels,No,Not available,5,64,3,1,from 2.6 m,5,Closed balcony,Not available,Old Renovation
+Kentron,"Արգիշտի փողոց 11/11, Երևան","$150,000",Monolith,Yes,Available,14,36,2,1,from 3 m,2,Not available,Available,Designer Renovation
+Kentron,"Koryun street, Yerevan","$250,000",Monolith,Yes,Available,9,92,3,2,from 2.8 m,7,Closed balcony,Available,Major Renovation
+Kentron,"Amiryan Street, Yerevan","$120,000",Panels,No,Available,9,40,2,1,from 2.75 m,3,Open balcony,Available,Old Renovation
+Kanaker-Zeytun,"Dro street 7, Yerevan","$99,000",Stone,No,Not available,5,60,2,1,from 2.75 m,4,Not available,Available,Designer Renovation
+Kentron,"Դերենիկ Դեմիրճյանի փողոց, Երևան","$175,000",Panels,No,Available,15,96,3,1,from 2.75 m,1,Open balcony,Not available,No Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտայի 3-րդ նրբանցք 7, Երևան","$500,000",Monolith,Yes,Available,6,185,4,3+,from 3.2 m,2,Multiple balconies,Not available,No Renovation
+Davitashen,"Davtashen 3rd Block 30, Yerevan","$110,000",Panels,No,Available,16,70,3,1,from 2.8 m,13,Not available,Available,Major Renovation
+Kentron,"Ռոստոմի փողոց 26, Երևան","$177,000",Monolith,Yes,Available,16,62,2,1,from 3 m,7,Open balcony,Not available,No Renovation
+Kentron,"Yervand Kochar street, Yerevan","$150,000",Panels,No,Available,9,80,3,1,from 2.8 m,8,Closed balcony,Not available,Old Renovation
+Shengavit,"Մանթաշյան փողոց 4/5, Երևան","$110,000",Panels,No,Available,9,78,3,1,from 2.75 m,1,Not available,By agreement,Old Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$130,000",Panels,No,Available,14,80,3,1,from 2.75 m,9,Closed balcony,Not available,Partial Renovation
+Arabkir,"Barbyus Street, Yerevan","$150,000",Stone,No,Not available,5,96,3,1,from 2.8 m,5,Closed balcony,Available,Old Renovation
+Kentron,"Glinka Street, Yerevan","$154,000",Panels,No,Available,9,90,3,1,from 2.75 m,3,Multiple balconies,Not available,Major Renovation
+Kentron,"Teryan street, Yerevan","$360,000",Stone,No,Not available,4,86,3,1,from 3 m,4,Multiple balconies,Not available,Cosmetic Renovation
+Kentron,"Մաշտոցի պողոտա, Երևան","$220,000",Stone,No,Not available,4,91,3,1,from 3 m,4,Multiple balconies,Not available,No Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$225,000",Panels,No,Available,10,95,3,1,from 2.8 m,5,Multiple balconies,Available,Euro Renovation
+Arabkir,Yerevan › Arabkir,"$185,000",Stone,No,Not available,4,108,3,1,from 2.75 m,3,Closed balcony,By agreement,Major Renovation
+Kentron,"Խորենացու փողոց, Երևան","$145,000",Panels,No,Available,16,82,3,1,from 2.75 m,14,Closed balcony,Available,Major Renovation
+Kentron,"Abovyan street, Երևան","$345,000",Stone,No,Not available,5,188,5,3+,from 3 m,4,Multiple balconies,By agreement,Major Renovation
+Kentron,"Charents street, Yerevan","$55,000",Panels,No,Available,14,34,1,1,from 2.75 m,1,Closed balcony,Not available,Old Renovation
+Kentron,"Aram Street, Yerevan","$285,000",Monolith,Yes,Available,8,68,3,2,from 3 m,2,Not available,Available,Major Renovation
+Kentron,"Saryan street, Երևան","$240,000",Panels,No,Available,11,66,2,1,from 2.8 m,5,Open balcony,By agreement,Designer Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$185,000",Stone,No,Not available,4,55,1,1,from 3 m,4,Multiple balconies,Available,Designer Renovation
+Davitashen,"Անաստաս Միկոյանի փողոց, Երևան","$205,000",Monolith,Yes,Available,12,155,3,1,from 3 m,10,Multiple balconies,Not available,No Renovation
+Nor Nork,"Գայի պողոտա, Երևան","$147,000",Monolith,Yes,Available,15,63,2,1,from 3 m,10,Open balcony,By agreement,Designer Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$220,000",Stone,No,Not available,5,67,3,1,from 3 m,2,Closed balcony,Partial Furniture,Major Renovation
+Arabkir,"Վաղարշ Վաղարշյան փողոց, Երևան","$96,000",Monolith,Yes,Available,7,35,1,1,from 3 m,2,Not available,Available,Major Renovation
+Arabkir,"Nikoghayos Adonts Street 4, Yerevan","$335,000",Stone,Yes,Available,8,123,4,2,from 3 m,6,Multiple balconies,Available,Designer Renovation
+Nor Nork,"Թևոսյան փողոց, Երևան","$55,000",Panels,Yes,Available,9,36,2,1,from 3 m,3,Not available,Not available,Euro Renovation
+Kanaker-Zeytun,"Azatutyan Avenue, Yerevan","$200,000",Monolith,Yes,Available,17,65,2,1,from 3 m,15,Open balcony,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$235,000",Monolith,Yes,Available,16,65,2,1,from 3 m,15,Open balcony,Not available,Major Renovation
+Shengavit,"Garegin Nzhdeh Street, Yerevan","$85,000",Stone,No,Not available,4,65,1,1,from 2.8 m,4,Not available,Available,Euro Renovation
+Kanaker-Zeytun,"David Anhaght street, Երևան","$164,000",Stone,No,Available,6,106,4,1,from 2.75 m,6,Not available,By agreement,Major Renovation
+Kentron,"Amiryan Street, Yerevan","$235,000",Stone,No,Not available,5,57,2,1,from 2.8 m,3,Closed balcony,Not available,Designer Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$130,000",Panels,No,Not available,5,100,3,1,from 2.75 m,3,Multiple balconies,Available,Major Renovation
+Avan,"Charents block, Yerevan","$105,000",Panels,No,Available,14,82,3,1,from 2.75 m,8,Multiple balconies,Available,Partial Renovation
+Avan,"Quchak block, Yerevan","$93,000",Panels,No,Available,9,53,2,1,from 2.75 m,8,Closed balcony,Available,Major Renovation
+Avan,"Sayat-Nova block, Yerevan","$105,000",Panels,No,Available,9,84,4,1,from 2.75 m,5,Multiple balconies,Available,No Renovation
+Avan,"Toumanyan block, Yerevan","$107,000",Panels,No,Available,9,88,4,1,from 2.75 m,8,Multiple balconies,Available,Partial Renovation
+Avan,"Toumanyan block, Yerevan","$100,000",Panels,No,Available,9,64,2,1,from 2.75 m,4,Multiple balconies,Available,Major Renovation
+Davitashen,"Սամվել Գևորգյան փողոց 4, Երևան","$155,000",Monolith,Yes,Available,16,94,4,2,from 3 m,7,Multiple balconies,Not available,No Renovation
+Arabkir,"Komitas avenu, Երևան","$125,000",Stone,No,Not available,5,56,2,1,from 2.75 m,5,Multiple balconies,By agreement,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$138,000",Panels,No,Available,9,98,4,1,from 2.8 m,3,Not available,Not available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$120,000",Panels,No,Available,14,88,3,1,from 2.8 m,13,Not available,Available,Euro Renovation
+Erebuni,"Արցախի պողոտա, Երևան","$99,800",Stone,No,Not available,3,82,3,1,from 2.8 m,3,Not available,Not available,Euro Renovation
+Arabkir,"Վիկտոր Համբարձումյան փողոց, Երևան","$142,000",Stone,No,Available,9,62,2,1,from 2.75 m,3,Open balcony,Not available,Major Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","$69,000",Stone,No,Not available,5,55,3,1,from 2.75 m,2,Multiple balconies,Not available,Old Renovation
+Nor Nork,"Թոթովենցի փողոց, Երևան","$61,500",Panels,No,Available,9,43,2,1,from 2.8 m,9,Closed balcony,Not available,Major Renovation
+Nor Nork,"Gai avenue, Yerevan","$67,000",Panels,No,Not available,5,56,2,1,from 2.7 m,1,Closed balcony,Not available,Old Renovation
+Nor Nork,"Գայի պողոտա, Երևան","$93,000",Panels,No,Available,9,83,4,1,from 2.8 m,1,Closed balcony,Partial Furniture,Cosmetic Renovation
+Nor Nork,"Nansen street, Yerevan","$75,000",Panels,No,Not available,5,64,3,1,from 2.6 m,5,Closed balcony,Not available,Old Renovation
+Nor Nork,"Nansen street, Yerevan","$160,000",Monolith,Yes,Available,16,64,3,1,from 2.8 m,8,Open balcony,Available,Designer Renovation
+Nor Nork,"Nelson Stepanyan street, Yerevan","$75,000",Panels,No,Available,9,60,2,1,from 2.8 m,8,Closed balcony,Not available,Old Renovation
+Nor Nork,"Gyulikekhvyan street, Yerevan","$80,000",Panels,No,Not available,5,65,3,1,from 2.7 m,3,Closed balcony,By agreement,Major Renovation
+Nor Nork,"Kocharyan street, Yerevan","$80,000",Stone,No,Not available,5,56,2,1,from 2.75 m,5,Not available,Not available,Cosmetic Renovation
+Nor Nork,"Gyulikekhvyan street, Yerevan","$71,000",Stone,No,Not available,5,55,2,1,from 2.75 m,2,Closed balcony,By agreement,Partial Renovation
+Nor Nork,"Moldovakan street, Yerevan","$48,000",Panels,No,Not available,5,37,1,1,from 2.6 m,1,Closed balcony,Not available,Old Renovation
+Nor Nork,"Gyulikekhvyan street, Yerevan","$64,000",Cassette,No,Not available,5,51,3,1,from 2.7 m,3,Closed balcony,Partial Furniture,Cosmetic Renovation
+Nor Nork,"Gai avenue, Yerevan","$225,000",Monolith,Yes,Available,16,97,4,2,from 2.8 m,11,Open balcony,Available,Euro Renovation
+Nor Nork,"Moldovakan street, Yerevan","$73,000",Panels,No,Not available,5,52,2,1,from 2.7 m,4,Closed balcony,Not available,Euro Renovation
+Nor Nork,"Մոլդովական, Երևան","$74,000",Panels,No,Not available,5,51,2,1,from 2.6 m,5,Closed balcony,Available,Major Renovation
+Nor Nork,"Gai avenue, Yerevan","$66,500",Panels,No,Available,9,43,1,1,from 2.8 m,1,Closed balcony,Not available,Major Renovation
+Nor Nork,"Moldovakan street, Երևան","$46,000",Panels,No,Not available,5,33,1,1,from 2.7 m,5,Open balcony,Not available,No Renovation
+Nor Nork,"Աշոտ Հովհաննիսյանի փողոց, Երևան","$122,000",Panels,No,Available,9,76,3,1,from 2.8 m,8,Closed balcony,Partial Furniture,Euro Renovation
+Arabkir,"Griboyedov street, Yerevan","$133,000",Stone,No,Not available,5,82,3,1,from 2.75 m,4,Multiple balconies,Not available,No Renovation
+Arabkir,"Vahram Papazyan street, Yerevan","$135,000",Stone,No,Not available,5,71,3,2,from 2.75 m,5,Multiple balconies,Not available,Major Renovation
+Arabkir,"Ադոնցի փողոց, Երևան","$180,000",Monolith,Yes,Available,9,82,3,1,from 3 m,2,Open balcony,Available,Major Renovation
+Arabkir,"Komitas Avenue, Yerevan","$195,000",Stone,No,Not available,5,89,3,1,from 3 m,4,Multiple balconies,Available,Major Renovation
+Nor Nork,"Վիլնյուսի փողոց 71, Նոր Նորքի 9-րդ զանգված","$131,000",Panels,No,Available,9,95,4,2,from 2.75 m,5,Multiple balconies,Available,Cosmetic Renovation
+Arabkir,"Nikoghayos Adonts Street, Yerevan","$180,000",Monolith,Yes,Available,7,82,3,1,from 3 m,5,Open balcony,Not available,No Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$105,000",Monolith,Yes,Available,12,44,2,1,from 3 m,9,Not available,Available,Major Renovation
+Ajapnyak,"Սիսակյան փողոց, Երևան","$98,000",Monolith,Yes,Available,8,62,2,1,from 3 m,8,Not available,Not available,Major Renovation
+Kentron,"Մովսես Խորենացու փողոց 47/7, Երևան","$152,000",Monolith,Yes,Available,12,69,3,1,from 2.75 m,10,Not available,By agreement,Major Renovation
+Kentron,Yerevan › Kentron,"$450,000",Stone,Yes,Available,7,121,3,2,from 3.5 m,5,Open balcony,Available,Euro Renovation
+Shengavit,"Եղիշե Թադևոսյան նրբ, Երևան","$82,000",Panels,No,Not available,4,52,2,1,from 2.7 m,3,Closed balcony,Not available,Major Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$72,000",Stone,No,Not available,5,47,1,1,from 2.75 m,2,Closed balcony,By agreement,Cosmetic Renovation
+Kentron,"Տերյան փողոց, Երևան","$230,000",Panels,No,Available,9,89,3,1,from 2.75 m,9,Open balcony,By agreement,Old Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$255,000",Monolith,Yes,Available,14,56,2,1,from 3 m,10,Open balcony,Available,Euro Renovation
+Erebuni,"Nubarashen 11 street, Yerevan","$80,000",Stone,No,Not available,5,97,4,1,from 2.8 m,5,Multiple balconies,Not available,No Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$80,000",Monolith,No,Available,14,68,2,2,from 2.75 m,12,Closed balcony,Available,Euro Renovation
+Kanaker-Zeytun,Yerevan › Kanaker-Zeytun,"$265,000",Stone,Yes,Not available,6,160,4,2,from 3 m,5,Multiple balconies,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$88,000",Stone,No,Not available,5,72,3,1,from 2.75 m,4,Open balcony,Available,Partial Renovation
+Arabkir,"Komitas Avenue, Yerevan","$184,000",Monolith,Yes,Available,18,64,2,1,from 3 m,6,Open balcony,Partial Furniture,Major Renovation
+Nork-Marash,"Սերո Խանզադյան փողոց, Երևան","110,000,000 ֏",Monolith,Yes,Available,12,93,3,2,from 3 m,3,Open balcony,Available,Designer Renovation
+Kanaker-Zeytun,"Դրոյի փողոց, Երևան","$71,000",Stone,No,Not available,5,45,1,1,from 2.7 m,4,Closed balcony,Available,Cosmetic Renovation
+Arabkir,"Նաիրի Զարյան փողոց, Երևան","$149,000",Monolith,Yes,Available,12,52,2,2,from 3 m,10,Open balcony,Available,Euro Renovation
+Kentron,"Տիգրան Մեծի պողոտա, Yerevan","$250,000",Stone,No,Not available,4,90,3,1,from 3.2 m,2,Open balcony,Available,Euro Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտա, Yerevan","$800,000",Monolith,Yes,Available,17,376,5,3+,from 3 m,17,Open balcony,Not available,No Renovation
+Kentron,"Եզնիկ Կողբացու փողոց, Yerevan","$240,000",Monolith,No,Available,10,74,3,1,from 2.8 m,9,Not available,Partial Furniture,Euro Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտա, Yerevan","$850,000",Monolith,Yes,Available,16,375,8+,3+,from 3.2 m,16,Multiple balconies,Not available,No Renovation
+Kentron,"Hanrapetutyun street, Yerevan","$355,000",Stone,No,Not available,5,98,3,1,from 3 m,3,Open balcony,Available,Euro Renovation
+Kentron,"Northern Avenue, Yerevan","$540,000",Monolith,Yes,Available,10,105,3,2,from 3 m,5,Open balcony,Available,Euro Renovation
+Kentron,"Moskovyan street, Yerevan","€235,000",Stone,No,Not available,5,50,2,1,from 3.2 m,2,Open balcony,By agreement,Old Renovation
+Kanaker-Zeytun,Yerevan › Kanaker-Zeytun,"$140,000",Panels,No,Available,9,70,2,1,from 2.75 m,2,Closed balcony,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$130,000",Panels,No,Available,9,90,4,2,from 2.75 m,9,Multiple balconies,Not available,Euro Renovation
+Arabkir,"Mamikonyants street, Yerevan","$186,000",Panels,Yes,Available,10,78,2,1,from 2.8 m,9,Not available,Available,Designer Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$160,000",Stone,No,Not available,5,60,3,1,from 2.8 m,5,Not available,Available,Euro Renovation
+Arabkir,"Վահրամ Փափազյան փողոց, Yerevan","$173,000",Panels,No,Available,16,98,4,1,from 2.7 m,2,Not available,Not available,Euro Renovation
+Arabkir,"Nikoghayos Adonts street 6, Yerevan","$177,000",Monolith,Yes,Available,8,47,2,1,from 3 m,7,Open balcony,Available,Designer Renovation
+Arabkir,"Նիկողայոս Տիգրանյան փակուղի, Երևան","$160,000",Monolith,Yes,Available,12,58,2,1,from 3 m,9,Open balcony,Partial Furniture,Euro Renovation
+Arabkir,"Komitas Avenue, Yerevan","$190,000",Monolith,Yes,Available,18,65,2,1,from 3 m,8,Closed balcony,Available,Euro Renovation
+Erebuni,"Աթոյան փողոց, Երևան","$130,000",Stone,No,Not available,5,82,3,1,from 2.8 m,2,Closed balcony,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$170,000",Monolith,Yes,Available,12,74,3,1,from 3 m,6,Open balcony,Not available,Major Renovation
+Arabkir,"Նիկողայոս Տիգրանյան փողոց, Երևան","$188,000",Monolith,Yes,Available,12,94,4,2,from 3 m,11,Open balcony,Not available,No Renovation
+Arabkir,"Nikoghayos Tigranyan street, Yerevan","$230,000",Monolith,Yes,Available,11,93,3,2,from 3 m,2,Open balcony,Available,Euro Renovation
+Kanaker-Zeytun,"Կարապետ Ուլնեցու փողոց, Երևան","$138,000",Monolith,Yes,Available,16,74,3,1,from 2.8 m,5,Open balcony,Not available,No Renovation
+Shengavit,"Улица Аэрации 2/4, Ереван","$72,000",Stone,No,Not available,5,78,3,1,from 2.7 m,5,Multiple balconies,Available,Partial Renovation
+Kentron,Yerevan › Kentron,"$300,000",Stone,No,Not available,5,98,3,2,from 2.7 m,3,Closed balcony,Available,Major Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$195,000",Monolith,Yes,Available,9,99,3,2,from 3 m,4,Open balcony,Not available,Major Renovation
+Davitashen,"SasnaTsrer street, Yerevan","$330,000",Monolith,Yes,Available,14,111,4,2,from 3 m,6,Open balcony,Partial Furniture,Major Renovation
+Shengavit,"Artashisyan street, Yerevan","$86,000",Panels,No,Available,9,60,2,1,from 2.8 m,1,Closed balcony,Not available,Cosmetic Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","72,600,000 ֏",Monolith,Yes,Available,14,132,4,2,from 3 m,11,Open balcony,Not available,No Renovation
+Malatia-Sebastia,"Arno Babajanian street, Yerevan","$82,000",Panels,No,Available,9,63,2,1,from 2.7 m,9,Closed balcony,By agreement,Euro Renovation
+Erebuni,"Erebuni street, Yerevan","$53,200",Stone,Yes,Not available,3,38,2,1,from 3.2 m,1,Open balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$72,000",Stone,No,Not available,5,47,1,1,from 2.75 m,2,Closed balcony,By agreement,Cosmetic Renovation
+Kentron,"Տերյան փողոց, Երևան","$230,000",Panels,No,Available,9,89,3,1,from 2.75 m,9,Open balcony,By agreement,Old Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$255,000",Monolith,Yes,Available,14,56,2,1,from 3 m,10,Open balcony,Available,Euro Renovation
+Erebuni,"Nubarashen 11 street, Yerevan","$80,000",Stone,No,Not available,5,97,4,1,from 2.8 m,5,Multiple balconies,Not available,No Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$80,000",Monolith,No,Available,14,68,2,2,from 2.75 m,12,Closed balcony,Available,Euro Renovation
+Kanaker-Zeytun,Yerevan › Kanaker-Zeytun,"$265,000",Stone,Yes,Not available,6,160,4,2,from 3 m,5,Multiple balconies,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$88,000",Stone,No,Not available,5,72,3,1,from 2.75 m,4,Open balcony,Available,Partial Renovation
+Arabkir,"Komitas Avenue, Yerevan","$184,000",Monolith,Yes,Available,18,64,2,1,from 3 m,6,Open balcony,Partial Furniture,Major Renovation
+Nork-Marash,"Սերո Խանզադյան փողոց, Երևան","110,000,000 ֏",Monolith,Yes,Available,12,93,3,2,from 3 m,3,Open balcony,Available,Designer Renovation
+Kanaker-Zeytun,"Դրոյի փողոց, Երևան","$71,000",Stone,No,Not available,5,45,1,1,from 2.7 m,4,Closed balcony,Available,Cosmetic Renovation
+Arabkir,"Նաիրի Զարյան փողոց, Երևան","$149,000",Monolith,Yes,Available,12,52,2,2,from 3 m,10,Open balcony,Available,Euro Renovation
+Kentron,"Տիգրան Մեծի պողոտա, Yerevan","$250,000",Stone,No,Not available,4,90,3,1,from 3.2 m,2,Open balcony,Available,Euro Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտա, Yerevan","$800,000",Monolith,Yes,Available,17,376,5,3+,from 3 m,17,Open balcony,Not available,No Renovation
+Kentron,"Եզնիկ Կողբացու փողոց, Yerevan","$240,000",Monolith,No,Available,10,74,3,1,from 2.8 m,9,Not available,Partial Furniture,Euro Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտա, Yerevan","$850,000",Monolith,Yes,Available,16,375,8+,3+,from 3.2 m,16,Multiple balconies,Not available,No Renovation
+Kentron,"Hanrapetutyun street, Yerevan","$355,000",Stone,No,Not available,5,98,3,1,from 3 m,3,Open balcony,Available,Euro Renovation
+Kentron,"Northern Avenue, Yerevan","$540,000",Monolith,Yes,Available,10,105,3,2,from 3 m,5,Open balcony,Available,Euro Renovation
+Kentron,"Moskovyan street, Yerevan","€235,000",Stone,No,Not available,5,50,2,1,from 3.2 m,2,Open balcony,By agreement,Old Renovation
+Kanaker-Zeytun,Yerevan › Kanaker-Zeytun,"$140,000",Panels,No,Available,9,70,2,1,from 2.75 m,2,Closed balcony,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$130,000",Panels,No,Available,9,90,4,2,from 2.75 m,9,Multiple balconies,Not available,Euro Renovation
+Arabkir,"Mamikonyants street, Yerevan","$186,000",Panels,Yes,Available,10,78,2,1,from 2.8 m,9,Not available,Available,Designer Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$160,000",Stone,No,Not available,5,60,3,1,from 2.8 m,5,Not available,Available,Euro Renovation
+Arabkir,"Վահրամ Փափազյան փողոց, Yerevan","$173,000",Panels,No,Available,16,98,4,1,from 2.7 m,2,Not available,Not available,Euro Renovation
+Arabkir,"Nikoghayos Adonts street 6, Yerevan","$177,000",Monolith,Yes,Available,8,47,2,1,from 3 m,7,Open balcony,Available,Designer Renovation
+Arabkir,"Նիկողայոս Տիգրանյան փակուղի, Երևան","$160,000",Monolith,Yes,Available,12,58,2,1,from 3 m,9,Open balcony,Partial Furniture,Euro Renovation
+Arabkir,"Komitas Avenue, Yerevan","$190,000",Monolith,Yes,Available,18,65,2,1,from 3 m,8,Closed balcony,Available,Euro Renovation
+Erebuni,"Աթոյան փողոց, Երևան","$130,000",Stone,No,Not available,5,82,3,1,from 2.8 m,2,Closed balcony,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$170,000",Monolith,Yes,Available,12,74,3,1,from 3 m,6,Open balcony,Not available,Major Renovation
+Arabkir,"Նիկողայոս Տիգրանյան փողոց, Երևան","$188,000",Monolith,Yes,Available,12,94,4,2,from 3 m,11,Open balcony,Not available,No Renovation
+Arabkir,"Nikoghayos Tigranyan street, Yerevan","$230,000",Monolith,Yes,Available,11,93,3,2,from 3 m,2,Open balcony,Available,Euro Renovation
+Shengavit,Yerevan › Shengavit,"$95,000",Panels,No,Available,10,67,2,1,from 2.75 m,9,Closed balcony,Available,Partial Renovation
+Arabkir,"Papazyan St, Yerevan","$150,000",Stone,No,Not available,5,60,3,1,from 3 m,5,Open balcony,By agreement,Designer Renovation
+Arabkir,"Sevkaretsi Sako street, Yerevan","$210,000",Monolith,Yes,Available,6,98,3,3+,from 3 m,4,Multiple balconies,Not available,No Renovation
+Arabkir,"Komitas Avenue, Yerevan","$270,000",Monolith,Yes,Available,16,125,4,2,from 3 m,7,Multiple balconies,Available,Euro Renovation
+Ajapnyak,"Margarian street, Yerevan","$107,000",Stone,No,Not available,5,78,3,1,from 2.75 m,5,Open balcony,Partial Furniture,Major Renovation
+Kentron,"Koryun street 21, Yerevan","€435,000",Stone,No,Not available,5,85,3,2,from 3.5 m,4,Open balcony,Available,Major Renovation
+Kanaker-Zeytun,"Սևակի փողոց, Երևան","$173,000",Monolith,Yes,Available,8,88,3,1,from 2.8 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Աբովյան փողոց, Երևան","$205,000",Stone,No,Not available,4,49,2,1,from 3 m,4,Open balcony,Available,Major Renovation
+Ajapnyak,"Լենինգրադյան փողոց, Երևան","$133,000",Monolith,Yes,Available,14,58,2,1,from 3 m,6,Open balcony,Available,Euro Renovation
+Arabkir,"Hakob Hakobyan Street, Yerevan","$95,000",Panels,No,Available,14,54,1,1,from 2.75 m,8,Not available,Available,Euro Renovation
+Kanaker-Zeytun,"Ավետիս Ահարոնյանի փողոց, Երևան","$115,000",Stone,No,Not available,5,100,3,1,from 2.75 m,5,Closed balcony,Not available,Old Renovation
+Davitashen,"Artem Mikoyan street, Yerevan","$230,000",Monolith,Yes,Available,15,104,4,2,from 3 m,4,Open balcony,Not available,Major Renovation
+Arabkir,"Avet Avetisyan Street, Yerevan","$250,000",Monolith,Yes,Available,10,132,4,2,from 3 m,9,Open balcony,Available,Euro Renovation
+Kentron,"Abovyan street, Yerevan","$250,000",Stone,No,Not available,5,60,2,1,from 2.8 m,4,Open balcony,Available,Major Renovation
+Kentron,"Սարյանի փողոց, Երևան","$450,000",Monolith,Yes,Available,12,127,4,2,from 3 m,3,Open balcony,Available,Major Renovation
+Kentron,"Մաշտոցի պողոտա, Երևան","$360,000",Stone,No,Not available,4,113,3,2,from 3 m,2,Open balcony,By agreement,Partial Renovation
+Davitashen,"SasnaTsrer street, Yerevan","$408,000",Monolith,Yes,Available,18,124,3,2,from 3 m,8,Multiple balconies,Available,Designer Renovation
+Kentron,"Saryan Street, Yerevan","$1,200,000",Monolith,Yes,Available,16,231,5,3+,from 3 m,13,Multiple balconies,Partial Furniture,Major Renovation
+Davitashen,"Անաստաս Միկոյան փողոց, Երևան","$210,000",Monolith,Yes,Available,18,110,4,2,from 3 m,9,Multiple balconies,Not available,Partial Renovation
+Ajapnyak,"Bashinjaghyan street, Yerevan","$85,000",Panels,No,Available,16,87,3,1,from 2.75 m,2,Closed balcony,By agreement,Old Renovation
+Kentron,"Yekmalyan street, Yerevan","$290,000",Monolith,Yes,Available,18,60,2,1,from 3 m,8,Not available,Available,Major Renovation
+Kentron,"Abovyan street, Yerevan","$250,000",Stone,No,Available,6,64,2,1,from 3 m,4,Open balcony,Available,Euro Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$185,000",Stone,No,Not available,4,55,1,1,from 3 m,4,Multiple balconies,Available,Designer Renovation
+Davitashen,"Davtashen 3rd Block 3, Yerevan","$122,000",Stone,Yes,Available,14,72,3,1,from 3 m,4,Open balcony,Not available,No Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$205,000",Panels,No,Available,9,84,3,2,from 2.8 m,4,Multiple balconies,Available,Major Renovation
+Erebuni,"Աթոյան փողոց 13, Երևան","$125,000",Stone,No,Not available,5,50,2,1,from 2.7 m,4,Closed balcony,Available,Euro Renovation
+Arabkir,"Kievyan street, Yerevan","$150,000",Stone,No,Not available,5,51,2,1,from 2.7 m,4,Closed balcony,Available,Major Renovation
+Kanaker-Zeytun,"Պարույր Սևակի փողոց, Երևան","$320,000",Monolith,Yes,Available,15,106,3,1,from 3 m,10,Open balcony,Available,Designer Renovation
+Arabkir,"Կոմիտասի պողոտա, Երևան","$118,000",Stone,No,Not available,5,77,3,1,from 2.75 m,5,Open balcony,Available,Major Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$350,000",Monolith,Yes,Available,14,118,3,2,from 3 m,12,Open balcony,Available,Designer Renovation
+Kentron,"Yervand Kochar street, Yerevan","$123,000",Panels,No,Available,16,41,2,1,from 2.8 m,14,Open balcony,Available,Major Renovation
+Arabkir,"Գյուլբենկյան փողոց, Երևան","$110,000",Stone,No,Not available,4,71,3,1,from 2.6 m,4,Closed balcony,Partial Furniture,Partial Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$87,000",Stone,No,Not available,5,30,1,1,from 2.75 m,3,Open balcony,Available,Designer Renovation
+Arabkir,"Griboyedov street, Yerevan","$175,000",Stone,No,Not available,5,71,2,1,from 3 m,3,Multiple balconies,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$290,000",Monolith,Yes,Available,16,76,3,1,from 3 m,6,Open balcony,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$165,000",Panels,No,Available,9,95,4,1,from 2.75 m,8,Closed balcony,Partial Furniture,Partial Renovation
+Kentron,"Տերյան փողոց, Երևան","$320,000",Monolith,Yes,Available,9,62,3,2,from 3 m,3,Open balcony,Not available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$235,000",Monolith,Yes,Available,7,86,4,2,from 3 m,3,Open balcony,Available,Designer Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$105,000",Panels,No,Available,9,100,3,2,from 2.75 m,8,Multiple balconies,Partial Furniture,Old Renovation
+Kentron,"Yervand Kochar street, Yerevan","$120,000",Panels,No,Available,13,50,2,1,from 2.8 m,10,Open balcony,Available,Major Renovation
+Kentron,"Ռոստոմի փողոց, Երևան","$148,000",Monolith,Yes,Available,15,54,2,1,from 3 m,14,Open balcony,Not available,No Renovation
+Erebuni,"Avanesov street, Yerevan","$105,000",Stone,No,Not available,5,112,4,2,from 2.8 m,4,Closed balcony,Not available,Designer Renovation
+Arabkir,"Azatutyan Avenue, Yerevan","$100,000",Stone,No,Not available,5,61,2,1,from 2.75 m,5,Open balcony,Not available,Old Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$81,000",Stone,No,Not available,5,57,2,1,from 2.75 m,5,Closed balcony,Available,Partial Renovation
+Arabkir,"Komitas Avenue 15, Yerevan","$480,000",Monolith,Yes,Available,17,192,2,1,from 3 m,8,Open balcony,Not available,No Renovation
+Davitashen,"Տիգրան Պետրոսյանի փողոց, Երևան","$165,000",Panels,No,Available,9,100,3,2,from 2.75 m,2,Multiple balconies,Available,Euro Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$250,000",Monolith,Yes,Available,16,76,3,1,from 3 m,5,Open balcony,By agreement,Major Renovation
+Arabkir,"Marshal Baghramyan avenue, Yerevan","$635,000",Monolith,Yes,Available,14,200,3,3+,from 3.2 m,5,Open balcony,Not available,Designer Renovation
+Shengavit,"Sharuri street, Yerevan","$66,000",Panels,No,Available,9,72,2,2,from 2.75 m,8,Multiple balconies,Partial Furniture,Partial Renovation
+Arabkir,"Կոմիտասի պողոտա, Երևան","$265,000",Stone,No,Not available,5,105,4,2,from 2.8 m,4,Multiple balconies,Available,Major Renovation
+Arabkir,"Mamikonyants street 58, Yerevan","$190,000",Monolith,Yes,Available,12,96,4,2,from 3 m,7,Open balcony,Not available,No Renovation
+Shengavit,"Bagratunyats Avenue, Yerevan","$74,000",Panels,No,Available,9,62,2,2,from 2.75 m,8,Closed balcony,By agreement,Old Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$245,000",Monolith,Yes,Available,8,120,4,2,from 3 m,7,Open balcony,Not available,Major Renovation
+Shengavit,"Artashisyan street, Yerevan","$82,000",Stone,No,Not available,5,75,3,2,from 2.75 m,4,Multiple balconies,Available,Partial Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց, Երևան","84,000,000 ֏",Monolith,Yes,Available,9,103,3,2,from 3 m,6,Open balcony,By agreement,Major Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$185,000",Stone,No,Not available,5,89,3,2,from 3.2 m,3,Multiple balconies,Available,Euro Renovation
+Avan,"Avan-Arinj 1st micro 3/3, Yerevan","$77,000",Panels,No,Available,9,49,3,1,from 2.8 m,8,Not available,By agreement,Designer Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$210,000",Monolith,Yes,Available,9,86,3,2,from 3 m,2,Multiple balconies,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$335,000",Monolith,Yes,Available,8,123,4,2,from 3 m,6,Multiple balconies,Available,Euro Renovation
+Arabkir,"Nikoghayos Adonts street 6, Yerevan","$250,000",Monolith,Yes,Available,18,102,3,2,from 3 m,10,Multiple balconies,Available,Major Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց 6, Երևան","$300,000",Monolith,Yes,Available,8,142,4,2,from 3 m,8,Multiple balconies,Not available,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$270,000",Monolith,Yes,Available,7,120,4,2,from 3 m,4,Multiple balconies,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$228,000",Monolith,Yes,Available,10,97,3,2,from 3 m,7,Open balcony,Available,Major Renovation
+Ajapnyak,"Fuchik street, Yerevan","$169,000",Monolith,Yes,Available,14,103,3,2,from 3 m,6,Open balcony,Not available,No Renovation
+Erebuni,"Artsakh avenue, Yerevan","$78,000",Stone,No,Not available,4,81,4,1,from 2.6 m,3,Open balcony,Available,Old Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$210,000",Monolith,No,Available,10,81,3,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Sebastia Street, Yerevan","$69,000",Panels,No,Available,9,42,1,1,from 2.8 m,4,Not available,Not available,Major Renovation
+Ajapnyak,"Գրիգոր Հասրաթյանի փողոց, Երևան","$93,000",Monolith,Yes,Available,14,59,2,1,from 3 m,3,Open balcony,Not available,No Renovation
+Shengavit,"улица Гарегина Нжде, Ереван","$55,000",Stone,No,Not available,4,30,1,1,from 2.7 m,4,Open balcony,Not available,Old Renovation
+Kentron,"Zakian street 4, Yerevan","$240,000",Stone,No,Not available,5,60,3,1,from 2.8 m,4,Open balcony,Available,Designer Renovation
+Ajapnyak,"Լենինգրադյան փողոց, Yerevan","$69,000",Stone,No,Not available,4,41,2,1,from 2.7 m,1,Not available,Not available,Designer Renovation
+Kentron,"Հակոբ Պարոնյանի փողոց, Երևան","$143,000",Stone,No,Not available,4,52,2,1,from 3.2 m,4,Closed balcony,By agreement,Euro Renovation
+Ajapnyak,"Nazarbekyan block 14, Yerevan","$48,000",Monolith,No,Available,14,30,2,1,from 2.8 m,10,Not available,Not available,Major Renovation
+Arabkir,"Komitas Avenue 25, Yerevan","$90,000",Stone,No,Not available,5,35,1,1,from 3.2 m,3,Open balcony,Not available,Old Renovation
+Shengavit,"Garegin Nzhdeh Street 18, Yerevan","$145,000",Stone,No,Not available,4,63,3,1,from 3.2 m,3,Not available,Available,Major Renovation
+Kanaker-Zeytun,"Պարույր Սևակի փողոց, Երևան","$320,000",Monolith,Yes,Available,15,106,3,1,from 3 m,10,Open balcony,Available,Designer Renovation
+Arabkir,"Կոմիտասի պողոտա, Երևան","$118,000",Stone,No,Not available,5,77,3,1,from 2.75 m,5,Open balcony,Available,Major Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$350,000",Monolith,Yes,Available,14,118,3,2,from 3 m,12,Open balcony,Available,Designer Renovation
+Kentron,"Yervand Kochar street, Yerevan","$123,000",Panels,No,Available,16,41,2,1,from 2.8 m,14,Open balcony,Available,Major Renovation
+Arabkir,"Գյուլբենկյան փողոց, Երևան","$110,000",Stone,No,Not available,4,71,3,1,from 2.6 m,4,Closed balcony,Partial Furniture,Partial Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$87,000",Stone,No,Not available,5,30,1,1,from 2.75 m,3,Open balcony,Available,Designer Renovation
+Arabkir,"Griboyedov street, Yerevan","$175,000",Stone,No,Not available,5,71,2,1,from 3 m,3,Multiple balconies,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$290,000",Monolith,Yes,Available,16,76,3,1,from 3 m,6,Open balcony,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$165,000",Panels,No,Available,9,95,4,1,from 2.75 m,8,Closed balcony,Partial Furniture,Partial Renovation
+Kentron,"Տերյան փողոց, Երևան","$320,000",Monolith,Yes,Available,9,62,3,2,from 3 m,3,Open balcony,Not available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$235,000",Monolith,Yes,Available,7,86,4,2,from 3 m,3,Open balcony,Available,Designer Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$105,000",Panels,No,Available,9,100,3,2,from 2.75 m,8,Multiple balconies,Partial Furniture,Old Renovation
+Kentron,"Yervand Kochar street, Yerevan","$120,000",Panels,No,Available,13,50,2,1,from 2.8 m,10,Open balcony,Available,Major Renovation
+Kentron,"Ռոստոմի փողոց, Երևան","$148,000",Monolith,Yes,Available,15,54,2,1,from 3 m,14,Open balcony,Not available,No Renovation
+Erebuni,"Avanesov street, Yerevan","$105,000",Stone,No,Not available,5,112,4,2,from 2.8 m,4,Closed balcony,Not available,Designer Renovation
+Arabkir,"Azatutyan Avenue, Yerevan","$100,000",Stone,No,Not available,5,61,2,1,from 2.75 m,5,Open balcony,Not available,Old Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$81,000",Stone,No,Not available,5,57,2,1,from 2.75 m,5,Closed balcony,Available,Partial Renovation
+Arabkir,"Komitas Avenue 15, Yerevan","$480,000",Monolith,Yes,Available,17,192,2,1,from 3 m,8,Open balcony,Not available,No Renovation
+Davitashen,"Տիգրան Պետրոսյանի փողոց, Երևան","$165,000",Panels,No,Available,9,100,3,2,from 2.75 m,2,Multiple balconies,Available,Euro Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$250,000",Monolith,Yes,Available,16,76,3,1,from 3 m,5,Open balcony,By agreement,Major Renovation
+Arabkir,"Marshal Baghramyan avenue, Yerevan","$635,000",Monolith,Yes,Available,14,200,3,3+,from 3.2 m,5,Open balcony,Not available,Designer Renovation
+Shengavit,"Sharuri street, Yerevan","$66,000",Panels,No,Available,9,72,2,2,from 2.75 m,8,Multiple balconies,Partial Furniture,Partial Renovation
+Arabkir,"Կոմիտասի պողոտա, Երևան","$265,000",Stone,No,Not available,5,105,4,2,from 2.8 m,4,Multiple balconies,Available,Major Renovation
+Arabkir,"Mamikonyants street 58, Yerevan","$190,000",Monolith,Yes,Available,12,96,4,2,from 3 m,7,Open balcony,Not available,No Renovation
+Shengavit,"Bagratunyats Avenue, Yerevan","$74,000",Panels,No,Available,9,62,2,2,from 2.75 m,8,Closed balcony,By agreement,Old Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$245,000",Monolith,Yes,Available,8,120,4,2,from 3 m,7,Open balcony,Not available,Major Renovation
+Shengavit,"Artashisyan street, Yerevan","$82,000",Stone,No,Not available,5,75,3,2,from 2.75 m,4,Multiple balconies,Available,Partial Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց, Երևան","84,000,000 ֏",Monolith,Yes,Available,9,103,3,2,from 3 m,6,Open balcony,By agreement,Major Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$185,000",Stone,No,Not available,5,89,3,2,from 3.2 m,3,Multiple balconies,Available,Euro Renovation
+Avan,"Avan-Arinj 1st micro 3/3, Yerevan","$77,000",Panels,No,Available,9,49,3,1,from 2.8 m,8,Not available,By agreement,Designer Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$210,000",Monolith,Yes,Available,9,86,3,2,from 3 m,2,Multiple balconies,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$335,000",Monolith,Yes,Available,8,123,4,2,from 3 m,6,Multiple balconies,Available,Euro Renovation
+Arabkir,"Nikoghayos Adonts street 6, Yerevan","$250,000",Monolith,Yes,Available,18,102,3,2,from 3 m,10,Multiple balconies,Available,Major Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց 6, Երևան","$300,000",Monolith,Yes,Available,8,142,4,2,from 3 m,8,Multiple balconies,Not available,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$270,000",Monolith,Yes,Available,7,120,4,2,from 3 m,4,Multiple balconies,By agreement,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$228,000",Monolith,Yes,Available,10,97,3,2,from 3 m,7,Open balcony,Available,Major Renovation
+Ajapnyak,"Fuchik street, Yerevan","$169,000",Monolith,Yes,Available,14,103,3,2,from 3 m,6,Open balcony,Not available,No Renovation
+Erebuni,"Artsakh avenue, Yerevan","$78,000",Stone,No,Not available,4,81,4,1,from 2.6 m,3,Open balcony,Available,Old Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$210,000",Monolith,No,Available,10,81,3,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Raffi street 17, Yerevan","$100,000",Panels,No,Available,9,86,4,1,from 2.75 m,6,Open balcony,Not available,Partial Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$85,000",Monolith,Yes,Available,14,34,1,1,from 3 m,14,Open balcony,Available,Major Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$380,000",Monolith,Yes,Available,11,139,4,2,from 3.2 m,11,Open balcony,Not available,No Renovation
+Kentron,"Tumanyan street, Yerevan","$450,000",Monolith,Yes,Available,7,95,3,1,from 3 m,4,Open balcony,Available,Euro Renovation
+Kentron,"Byuzand Street, Yerevan","$260,000",Monolith,Yes,Available,15,54,2,1,from 3.2 m,5,Open balcony,By agreement,Euro Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$220,000",Stone,Yes,Available,10,70,3,1,from 3 m,3,Open balcony,By agreement,Euro Renovation
+Arabkir,"Avet Avetisyan Street, Yerevan","$123,000",Stone,No,Available,6,76,2,1,from 2.8 m,6,Not available,Not available,Partial Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$125,000",Monolith,No,Available,7,100,4,1,from 2.8 m,2,Closed balcony,By agreement,No Renovation
+Arabkir,"Ազատության պողոտա, Երևան","$89,000",Panels,No,Available,12,42,1,1,from 2.75 m,8,Not available,By agreement,Euro Renovation
+Arabkir,"Mamikonyants street, Yerevan","$110,000",Stone,No,Not available,5,65,3,2,from 2.7 m,2,Open balcony,By agreement,No Renovation
+Arabkir,"Komitas avenu, Երևան","$110,000",Stone,No,Not available,4,71,3,1,from 2.6 m,4,Not available,By agreement,Euro Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$220,000",Monolith,No,Available,10,81,3,1,from 2.8 m,8,Closed balcony,Not available,Old Renovation
+Arabkir,"Komitas Avenue, Yerevan","$125,000",Stone,No,Not available,5,78,3,1,from 2.7 m,2,Closed balcony,By agreement,No Renovation
+Kentron,"Երվանդ Քոչարի փողոց, Երևան","$110,000",Panels,No,Available,16,76,2,1,from 2.8 m,16,Open balcony,Partial Furniture,Old Renovation
+Arabkir,"Komitas avenu, Երևան","$121,000",Panels,No,Available,9,78,3,1,from 2.75 m,5,Open balcony,Available,Old Renovation
+Arabkir,"Sundukyan St, Yerevan","€125,000",Panels,No,Available,10,96,3,1,from 2.75 m,7,Open balcony,Partial Furniture,Old Renovation
+Arabkir,"Sundukyan St, Yerevan","$117,000",Stone,No,Not available,5,65,2,1,from 2.75 m,5,Closed balcony,By agreement,Euro Renovation
+Arabkir,"Komitas avenu, Երևան","$140,000",Stone,No,Not available,4,75,3,1,from 3 m,3,Closed balcony,By agreement,Euro Renovation
+Arabkir,"Hrachya Kochar Street 16, Yerevan","$112,000",Panels,No,Available,9,67,2,1,from 2.8 m,5,Not available,Available,Partial Renovation
+Arabkir,"Komitas Avenue, Yerevan","$200,000",Stone,No,Available,7,102,4,1,from 2.8 m,2,Closed balcony,Not available,Old Renovation
+Arabkir,"Hayrik Muradyan street 42/2, Yerevan","$145,000",Monolith,Yes,Available,18,67,2,1,from 3 m,4,Closed balcony,Partial Furniture,Euro Renovation
+Erebuni,"Khorenatsi street, Yerevan","$79,000",Stone,No,Not available,5,50,2,1,from 2.8 m,5,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Buzand St, Yerevan","$240,000",Monolith,Yes,Available,17,45,2,1,from 3 m,5,Not available,Available,Designer Renovation
+Malatia-Sebastia,"Arno Babajanian street, Yerevan","$80,000",Panels,No,Available,9,67,2,1,from 2.8 m,9,Closed balcony,Available,Euro Renovation
+Malatia-Sebastia,"Ծովակալ Իսակովի պողոտա, Երևան","$103,000",Panels,No,Available,9,86,4,1,from 2.8 m,6,Closed balcony,Not available,Designer Renovation
+Malatia-Sebastia,"Ծովակալ Իսակովի պողոտա, Երևան","$97,000",Panels,No,Available,9,67,2,1,from 2.8 m,5,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$121,000",Panels,No,Available,14,83,4,1,from 2.8 m,3,Closed balcony,Available,Major Renovation
+Kentron,"Abovyan street, Yerevan","$495,000",Stone,No,Available,6,136,4,1,from 2.75 m,5,Open balcony,Not available,Euro Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$110,000",Stone,No,Not available,5,80,3,1,from 2.75 m,5,Multiple balconies,Available,Major Renovation
+Malatia-Sebastia,"Arno Babajanian Street, Երևան","$70,000",Panels,No,Available,9,55,2,1,from 2.7 m,8,Not available,Available,Cosmetic Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$115,000",Panels,No,Available,16,96,3,1,from 2.8 m,14,Multiple balconies,Available,Major Renovation
+Ajapnyak,"Margaryan St 12, Yerevan","$79,000",Stone,No,Not available,5,45,2,1,from 2.8 m,2,Closed balcony,Available,Major Renovation
+Erebuni,"Նոր Արեշի 42-րդ փողոց 2, Երևան","$83,000",Stone,No,Not available,5,80,3,1,from 2.8 m,2,Open balcony,By agreement,Partial Renovation
+Ajapnyak,"Մարգարյան փողոց, Երևան","$102,000",Stone,No,Not available,5,80,3,1,from 2.8 m,5,Multiple balconies,Available,Euro Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$94,000",Stone,No,Not available,5,35,1,1,from 2.8 m,4,Closed balcony,By agreement,Cosmetic Renovation
+Shengavit,"Arshakuniants avenue 39/9, Երևան","$72,000",Stone,Yes,Available,4,59,2,1,from 3 m,4,Not available,Available,Cosmetic Renovation
+Davitashen,"SasnaTsrer street, Yerevan","$207,000",Monolith,Yes,Available,15,67,3,1,from 2.75 m,8,Open balcony,Available,Designer Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$90,000",Panels,No,Available,16,98,4,1,from 2.8 m,13,Multiple balconies,Available,Cosmetic Renovation
+Ajapnyak,"Mazmanyan Street, Yerevan","$87,000",Panels,No,Available,14,85,4,1,from 2.8 m,3,Open balcony,Not available,Cosmetic Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$72,000",Panels,No,Available,9,43,1,1,from 2.7 m,9,Not available,By agreement,Major Renovation
+Ajapnyak,"Բաշինջաղյան փողոց, Yerevan","$85,000",Panels,No,Available,16,80,2,1,from 2.8 m,13,Open balcony,Available,Major Renovation
+Kentron,"Aram Street, Yerevan","$720,000",Monolith,Yes,Available,17,131,4,2,from 3 m,7,Open balcony,Available,Designer Renovation
+Arabkir,"Kievyan street 14/3, Yerevan","$269,000",Monolith,Yes,Available,17,90,2,1,from 3 m,17,Open balcony,Available,Major Renovation
+Nor Nork,"Նանսենի փողոց 9, Երևան","$87,000",Monolith,No,Available,12,64,3,1,from 2.8 m,4,Not available,Partial Furniture,Cosmetic Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$270,000",Monolith,No,Available,9,96,3,1,from 2.75 m,7,Not available,By agreement,Major Renovation
+Kentron,"Saryan Street, Yerevan","$130,000",Panels,No,Available,11,42,2,1,from 2.75 m,9,Not available,Not available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Երևան","$149,000",Monolith,No,Available,16,80,2,1,from 2.75 m,16,Open balcony,By agreement,Old Renovation
+Kentron,"Abovyan street, Yerevan","$250,000",Stone,No,Not available,5,60,2,1,from 3.2 m,4,Open balcony,By agreement,Major Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$129,000",Panels,No,Available,11,40,2,1,from 2.75 m,5,Not available,Available,Euro Renovation
+Kentron,"Aram Street, Yerevan","$400,000",Monolith,Yes,Available,14,74,2,1,from 3 m,10,Open balcony,By agreement,Designer Renovation
+Kentron,"Nalbandyan street, Yerevan","$230,000",Stone,No,Not available,5,101,3,1,from 3.2 m,5,Open balcony,Not available,Old Renovation
+Nor Nork,"Улица Анастаса Микояна 12, Ереван","$120,000",Panels,No,Not available,5,94,4,1,from 2.75 m,5,Open balcony,Available,Euro Renovation
+Kentron,"Sayat Nova avenu, Երևան","$208,000",Panels,No,Available,12,90,3,1,from 2.8 m,10,Open balcony,Available,Major Renovation
+Kentron,"Moskovyan street 8, Yerevan","$215,000",Stone,No,Not available,5,52,2,1,from 3.2 m,2,Not available,Not available,Old Renovation
+Kentron,"Northern Avenue, Yerevan","$710,000",Monolith,Yes,Available,16,175,3,2,from 3 m,14,Open balcony,By agreement,Designer Renovation
+Kentron,Yerevan › Kentron,"$165,000",Stone,No,Not available,4,66,2,1,from 3.5 m,4,Open balcony,By agreement,Major Renovation
+Kentron,"Argishti street, Yerevan","$92,000",Monolith,Yes,Available,14,37,1,1,from 3.2 m,3,Open balcony,By agreement,Cosmetic Renovation
+Erebuni,"Erebuni street 28, Yerevan","$61,000",Stone,No,Not available,5,36,2,1,from 2.75 m,5,Not available,Not available,Designer Renovation
+Kentron,"Աբովյան փողոց, Yerevan","$250,000",Stone,No,Not available,5,65,2,1,from 3 m,4,Open balcony,Available,Euro Renovation
+Kentron,"Վերին Անտառային փողոց, Երևան","$320,000",Monolith,Yes,Not available,6,100,3,2,from 3 m,4,Open balcony,Not available,No Renovation
+Arabkir,"Komitas Avenue 25, Yerevan","$90,000",Stone,No,Not available,5,35,1,1,from 3.2 m,3,Open balcony,Not available,Old Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$75,000",Stone,No,Not available,5,56,2,1,from 2.75 m,4,Multiple balconies,By agreement,Old Renovation
+Kentron,"Yervand Kochar street, Yerevan","$150,000",Panels,No,Available,9,80,3,1,from 2.8 m,8,Closed balcony,Not available,Old Renovation
+Nor Nork,"Moldovakan street, Yerevan","$72,000",Panels,No,Available,9,67,3,1,from 2.75 m,9,Closed balcony,Not available,No Renovation
+Kanaker-Zeytun,"Dro street 7, Yerevan","$99,000",Stone,No,Not available,5,60,2,1,from 2.75 m,4,Not available,Available,Designer Renovation
+Avan,"Avan-Arinj 1st micro 2/3, Yerevan","$93,000",Panels,No,Available,9,53,2,1,from 2.75 m,5,Not available,Available,Designer Renovation
+Kentron,"Argishti street, Yerevan","$92,000",Monolith,Yes,Available,14,37,1,1,from 3.2 m,3,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Aram Street, Yerevan","$630,000",Monolith,Yes,Available,15,140,4,1,from 3 m,15,Open balcony,Not available,Euro Renovation
+Kentron,"Yeznik Koghbaci Street, Երևան","$210,000",Panels,No,Not available,11,70,3,1,from 2.8 m,8,Closed balcony,By agreement,Euro Renovation
+Kentron,"Nalbandyan street, Yerevan","$280,000",Wooden,No,Not available,4,120,3,2,from 3.5 m,1,Closed balcony,Not available,Partial Renovation
+Kentron,"Sayat Nova avenu, Երևան","$200,000",Stone,No,Not available,4,68,2,1,from 3 m,2,Closed balcony,By agreement,Euro Renovation
+Kentron,"Saryan Street, Yerevan","$135,000",Panels,No,Available,11,40,2,1,from 2.75 m,11,Not available,By agreement,Euro Renovation
+Kentron,"Alek Manoukyan street, Yerevan","$790,000",Monolith,Yes,Available,8,352,7,3+,from 3.2 m,8,Not available,Available,Euro Renovation
+Kentron,"Yervand Kochar street, Yerevan","$77,000",Panels,No,Available,9,41,1,1,from 2.75 m,9,Open balcony,Not available,Old Renovation
+Kentron,Yerevan › Kentron,"$240,000",Stone,No,Not available,5,65,2,1,from 2.8 m,3,Closed balcony,Available,Euro Renovation
+Kentron,"Nalbandyan street, Երևան","$250,000",Stone,No,Not available,5,70,2,1,from 3 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Tumanyan street, Yerevan","$450,000",Stone,No,Not available,5,110,4,1,from 2.75 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Tumanyan street, Yerevan","$450,000",Monolith,Yes,Available,8,120,3,2,from 3.2 m,4,Open balcony,Available,Euro Renovation
+Kentron,"Yeznik Koghbaci Street, Երևան","$230,000",Panels,No,Available,11,70,2,2,from 2.75 m,3,Closed balcony,Available,Euro Renovation
+Shengavit,Yerevan › Shengavit,"$145,000",Stone,No,Not available,6,104,3,2,from 3.5 m,6,Not available,Partial Furniture,Designer Renovation
+Kentron,"Mesrop Mashtots, Երևան","$250,000",Stone,No,Not available,5,64,2,1,from 3.2 m,4,Open balcony,By agreement,Old Renovation
+Kentron,"Khorenatsi street, Yerevan","$145,000",Stone,No,Not available,4,40,2,1,from 3.2 m,3,Open balcony,Available,Euro Renovation
+Kentron,"Թամանյանի փողոց, Երևան","$330,000",Stone,No,Not available,5,70,2,1,from 3.2 m,2,Closed balcony,By agreement,Old Renovation
+Kentron,"Saryan Street, Yerevan","$175,000",Panels,No,Available,8,63,2,1,from 2.8 m,4,Closed balcony,Not available,Old Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$225,000",Panels,No,Available,11,70,2,1,from 2.75 m,3,Open balcony,Available,Designer Renovation
+Arabkir,"Նիկողայոս Ադոնց փողոց 6, Երևան","40,000,000 ֏",Monolith,Yes,Available,8,48,2,1,from 3 m,3,Not available,Available,Major Renovation
+Kentron,"Nalbandyan street, Երևան","$155,000",Stone,No,Not available,4,37,1,1,from 3 m,2,Open balcony,By agreement,Euro Renovation
+Kentron,"Frik Street, Yerevan","$185,000",Panels,No,Available,10,92,4,1,from 2.7 m,4,Open balcony,Not available,Old Renovation
+Kentron,"Koryun street, Yerevan","$150,000",Stone,No,Not available,5,50,2,2,from 3.2 m,4,Open balcony,By agreement,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$400,000",Stone,No,Available,4,90,3,1,from 3.2 m,4,Open balcony,By agreement,Euro Renovation
+Arabkir,"Avan-Arinj 1st micro, Yerevan","$89,000",Panels,No,Available,9,53,2,1,from 2.75 m,7,Closed balcony,Available,Major Renovation
+Nor Nork,"Marr street, Yerevan","$110,000",Panels,No,Available,16,104,5,1,from 2.75 m,7,Closed balcony,By agreement,No Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$185,000",Stone,No,Not available,5,56,2,1,from 3.2 m,5,Open balcony,By agreement,Major Renovation
+Kentron,"Բյուզանդի փողոց, Երևան","$730,000",Monolith,Yes,Available,16,176,4,2,from 3.2 m,7,Open balcony,Not available,No Renovation
+Kentron,"Պարոնյան փողոց, Երևան","$360,000",Monolith,Yes,Available,12,132,3,2,from 3.2 m,11,Open balcony,Not available,No Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$170,000",Panels,No,Available,9,72,2,1,from 2.75 m,6,Open balcony,Available,Euro Renovation
+Kentron,"Argishti street, Yerevan","$194,000",Monolith,Yes,Available,14,95,3,2,from 3.2 m,13,Open balcony,Available,Euro Renovation
+Kentron,"Amiryan Street, Yerevan","$230,000",Panels,No,Available,9,95,3,1,from 2.75 m,5,Open balcony,By agreement,Major Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$140,000",Panels,No,Available,11,80,3,1,from 2.8 m,10,Closed balcony,Available,Euro Renovation
+Kentron,"Aram Street, Yerevan","$250,000",Monolith,Yes,Available,15,67,2,1,from 3 m,7,Open balcony,Not available,Euro Renovation
+Kentron,"Արամի փողոց, Երևան","$400,000",Stone,No,Not available,5,115,4,2,from 3.2 m,2,Open balcony,Available,Euro Renovation
+Kentron,"Amiryan street, Երևան","$350,000",Panels,No,Available,10,115,4,2,from 2.7 m,7,Open balcony,By agreement,Euro Renovation
+Kentron,"Aram Street, Yerevan","$365,000",Monolith,Yes,Available,16,90,4,1,from 3.2 m,7,Open balcony,Available,Euro Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$240,000",Stone,No,Not available,5,65,2,1,from 3.2 m,4,Closed balcony,By agreement,Euro Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$300,000",Panels,No,Available,12,100,3,1,from 2.7 m,11,Open balcony,By agreement,Euro Renovation
+Kentron,"Agatangeghos Street 7, Yerevan","$160,000",Panels,No,Available,11,87,3,1,from 2.75 m,8,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$193,000",Panels,No,Available,10,81,3,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$270,000",Stone,No,Not available,5,81,3,1,from 3.2 m,3,Open balcony,Available,Major Renovation
+Arabkir,"Victor Hambardzumyan Street 18, Yerevan","$130,000",Stone,No,Available,8,40,1,1,from 2.8 m,2,Not available,Available,Euro Renovation
+Nork-Marash,"Garegin Hovsepyan Street, Yerevan","$500,000",Monolith,Yes,Available,7,254,3,2,from 3 m,7,Multiple balconies,Available,Designer Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$120,000",Panels,No,Available,14,98,4,1,from 2.75 m,9,Closed balcony,Not available,Partial Renovation
+Arabkir,"Մամիկոնյանց փողոց 56Ա, Երևան","$180,000",Stone,No,Not available,5,117,4,1,from 2.75 m,5,Open balcony,Available,Major Renovation
+Arabkir,"Mamikonyants street 42, Yerevan","$375,000",Monolith,Yes,Available,14,154,4,2,from 3 m,10,Multiple balconies,Available,Major Renovation
+Erebuni,"Erebuni street 1, Yerevan","$125,000",Panels,No,Available,9,93,3,1,from 2.75 m,7,Open balcony,By agreement,Major Renovation
+Shengavit,"Улица Гарегина Нжде 10, Ереван","$140,000",Stone,No,Not available,4,70,2,2,from 3.2 m,3,Multiple balconies,Available,Old Renovation
+Kentron,"Արշակունյաց պողոտա 9/2, Yerevan","$180,000",Monolith,Yes,Available,14,79,2,1,from 3 m,7,Open balcony,Not available,No Renovation
+Kentron,"Tamanyan street, Yerevan","$380,000",Stone,No,Not available,5,132,3,1,from 3 m,2,Open balcony,Not available,Euro Renovation
+Arabkir,"Aram Khachatryan street, Yerevan","$100,000",Stone,No,Not available,5,55,2,1,from 2.75 m,2,Open balcony,Not available,Cosmetic Renovation
+Arabkir,"Papazyan, st","$120,000",Panels,No,Available,16,80,3,1,from 2.75 m,1,Closed balcony,Not available,Major Renovation
+Arabkir,"Orbeli Brothers street, Yerevan","$97,000",Stone,No,Not available,5,54,2,1,from 2.7 m,5,Not available,By agreement,Major Renovation
+Arabkir,"Komitas Avenue, Yerevan","$210,000",Monolith,Yes,Available,15,70,2,1,from 3 m,13,Not available,Available,Designer Renovation
+Arabkir,"Victor Hambardzumyan Street, Yerevan","$100,000",Panels,No,Available,10,43,2,1,from 2.75 m,10,Not available,Available,Designer Renovation
+Arabkir,"Orbeli Brothers street, Yerevan","$85,000",Panels,No,Available,10,42,1,1,from 2.8 m,5,Open balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Azatutyan Avenue, Yerevan","$145,000",Stone,No,Not available,5,72,2,1,from 3.2 m,4,Open balcony,Available,Major Renovation
+Davitashen,"Davidashen 4-th block 49, Yerevan","$229,000",Stone,Yes,Available,11,101,3,1,from 3 m,7,Open balcony,Available,Major Renovation
+Kentron,"Խորենացու փողոց, Երևան","$125,000",Panels,No,Available,14,83,3,2,from 3 m,14,Closed balcony,Partial Furniture,Major Renovation
+Kentron,"Kajaznuni street, Yerevan","$150,000",Panels,No,Available,9,70,2,1,from 2.8 m,6,Not available,Not available,Old Renovation
+Kentron,"Paronyan street, Yerevan","$257,000",Monolith,Yes,Not available,15,111,3,1,from 3 m,8,Not available,Not available,No Renovation
+Kentron,"Argishti Street, Yerevan","$140,000",Monolith,Yes,Available,14,55,2,1,from 3.5 m,2,Not available,Available,Euro Renovation
+Arabkir,Yerevan › Arabkir,"$400,000",Monolith,Yes,Available,14,132,2,2,from 3.2 m,13,Open balcony,Available,Major Renovation
+Davitashen,"Անաստաս Միկոյան փողոց 25A, Երևան","$120,000",Monolith,Yes,Available,4,63,2,1,from 3 m,4,Open balcony,Partial Furniture,Major Renovation
+Arabkir,Yerevan › Arabkir,"$236,000",Monolith,Yes,Available,7,83,3,1,from 3.2 m,5,Multiple balconies,Available,Major Renovation
+Arabkir,"Սունդուկյան փողոց, Երևան","$130,000",Panels,No,Available,12,63,3,1,from 2.75 m,11,Open balcony,Available,Partial Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$70,000",Stone,No,Not available,5,44,2,1,from 2.7 m,5,Closed balcony,By agreement,Euro Renovation
+Kentron,"Argishti street, Երևան","175,000,000 ֏",Monolith,Yes,Available,15,211,4,3+,from 3 m,10,Open balcony,Not available,No Renovation
+Kentron,"Արամի փողոց, Երևան","$350,000",Monolith,Yes,Available,11,96,3,2,from 3 m,4,Open balcony,Not available,Major Renovation
+Kentron,"Moskovyan street, Yerevan","$360,000",Stone,No,Not available,4,90,3,1,from 3.5 m,4,Multiple balconies,Partial Furniture,Euro Renovation
+Kentron,"Abovyan street, Yerevan","$450,000",Monolith,Yes,Available,6,82,3,1,from 3.2 m,6,Not available,Available,Major Renovation
+Nor Nork,"Դավիթ Մալյան փողոց, Երևան","$96,000",Panels,No,Available,9,74,3,1,from 2.75 m,5,Closed balcony,By agreement,Old Renovation
+Kentron,"Khorenatsi street, Yerevan","$205,000",Monolith,Yes,Available,8,99,3,1,from 3 m,6,Open balcony,Not available,Major Renovation
+Kanaker-Zeytun,"Nazaret Surenyan street, Yerevan","$87,000",Panels,No,Available,9,47,1,1,from 2.75 m,2,Closed balcony,By agreement,Euro Renovation
+Arabkir,"Komitas Avenue, Yerevan","$150,000",Monolith,Yes,Available,18,65,2,1,from 3 m,3,Closed balcony,Not available,Major Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$155,000",Stone,No,Not available,5,126,4,1,from 3 m,5,Not available,Not available,Major Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$190,000",Monolith,Yes,Available,18,74,4,2,from 3 m,13,Not available,Available,Designer Renovation
+Kentron,"Yervand Kochar street, Yerevan","$120,000",Panels,No,Available,12,80,2,1,from 2.8 m,1,Not available,Not available,Partial Renovation
+Kentron,"Zakian street 1, Yerevan","$220,000",Monolith,Yes,Available,5,71,2,1,from 3 m,5,Closed balcony,Not available,Major Renovation
+Kentron,"Նալբանդյան փողոց, Երևան","$200,000",Stone,No,Not available,6,67,3,1,from 2.7 m,4,Open balcony,Not available,Euro Renovation
+Kentron,"Nalbandyan street, Yerevan","$367,000",Stone,No,Not available,5,186,5,2,from 3 m,5,Closed balcony,Not available,Major Renovation
+Arabkir,"Հակոբ Հակոբյան փողոց, Երևան","$175,000",Stone,No,Not available,6,109,4,2,from 2.8 m,4,Open balcony,Not available,Cosmetic Renovation
+Kentron,"Khorenatsi street, Yerevan","$175,000",Monolith,Yes,Available,13,47,2,1,from 3 m,4,Not available,By agreement,Major Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$78,000",Stone,No,Not available,5,38,1,1,from 2.7 m,3,Closed balcony,Not available,Old Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$175,000",Panels,No,Available,9,156,3,1,from 2.75 m,9,Open balcony,Available,Old Renovation
+Kentron,"Երվանդ Քոչարի փողոց, Երևան","$129,000",Monolith,No,Available,10,52,2,1,from 2.8 m,8,Not available,Not available,Major Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$190,000",Stone,No,Not available,6,80,3,1,from 2.7 m,4,Closed balcony,Available,Old Renovation
+Kentron,"Avetik Isahakyan street, Yerevan","$210,000",Panels,No,Available,9,125,4,1,from 2.8 m,3,Not available,Not available,Euro Renovation
+Arabkir,"Aram Khachatryan street, Yerevan","$97,000",Panels,No,Available,9,67,3,1,from 2.75 m,3,Closed balcony,Available,Partial Renovation
+Kentron,"Վարդանանց փողոց, Երևան","$95,000",Panels,No,Available,11,40,2,1,from 3 m,11,Not available,Available,Major Renovation
+Kentron,"Zavaryan street, Yerevan","$87,000",Panels,No,Available,9,42,1,1,from 2.75 m,7,Not available,Available,Partial Renovation
+Kentron,"Նար-Դոսի փողոց, Երևան","$97,000",Panels,No,Available,9,48,2,1,from 2.8 m,9,Open balcony,Partial Furniture,Major Renovation
+Arabkir,"Nairi Zaryan street 140, Yerevan","$210,000",Monolith,Yes,Available,17,85,3,1,from 3 m,7,Open balcony,Not available,No Renovation
+Davitashen,"Davidashen 1-st block, Yerevan","$159,000",Panels,No,Available,9,79,3,1,from 2.8 m,7,Not available,Partial Furniture,Major Renovation
+Erebuni,"Ռոստովյան փողոց, Երևան","$68,500",Stone,No,Not available,5,33,1,1,from 2.6 m,3,Open balcony,Available,Euro Renovation
+Shengavit,"Տարոնցի փողոցի 1-ին նրբանցք 1, Երևան","$59,500",Stone,Yes,Not available,2,34,2,1,from 2.75 m,2,Not available,Available,Major Renovation
+Kentron,"Khorenatsi street 17, Yerevan","$148,000",Monolith,Yes,Not available,7,61,2,1,from 3 m,4,Open balcony,Not available,Major Renovation
+Arabkir,"Marshal Baghramyan avenue 85, Yerevan","$245,000",Stone,No,Not available,5,80,4,1,from 2.8 m,4,Not available,Available,Designer Renovation
+Erebuni,"Erebuni street, Yerevan","$53,200",Stone,Yes,Not available,3,38,2,1,from 3.2 m,1,Open balcony,Not available,Partial Renovation
+Arabkir,"Mamikonyants street 25, Yerevan","$230,000",Stone,No,Not available,5,73,3,1,from 3.2 m,5,Open balcony,Available,Major Renovation
+Erebuni,"Tigran Mets Avenue, Yerevan","$129,000",Stone,No,Not available,4,101,3,1,from 2.75 m,2,Multiple balconies,Available,Cosmetic Renovation
+Shengavit,"Ներքին Չարբախ թաղամաս 62/2, Երևան","$23,500",Panels,No,Available,9,17,1,1,from 2.8 m,1,Closed balcony,Not available,Partial Renovation
+Kentron,"Forest Street, Yerevan","$235,000",Monolith,Yes,Available,13,113,3,2,from 3 m,5,Multiple balconies,Not available,No Renovation
+Davitashen,"Դավթաշեն 3-րդ թաղամաս, Երևան","$150,000",Panels,No,Available,9,95,4,1,from 2.75 m,6,Open balcony,Available,Major Renovation
+Erebuni,"Ռոստովյան փողոց, Երևան","$68,500",Stone,No,Not available,5,33,1,1,from 2.6 m,3,Open balcony,Available,Euro Renovation
+Nor Nork,"Ակսել Բակունցի փողոց, Երևան","$87,000",Stone,No,Not available,5,52,2,1,from 3 m,2,Closed balcony,Partial Furniture,Euro Renovation
+Kentron,"Մովսես Խորենացու փողոց, Երևան","$124,000",Panels,No,Available,14,69,3,1,from 2.7 m,1,Not available,Available,Partial Renovation
+Arabkir,"Tbilisyan Highway 7/8, Yerevan","$80,000",Monolith,Yes,Not available,4,45,2,1,from 2.8 m,2,Not available,By agreement,Euro Renovation
+Nor Nork,"Թոթովենցի փողոց, Երևան","$52,000",Panels,No,Not available,5,37,1,1,from 2.7 m,1,Closed balcony,Not available,Old Renovation
+Arabkir,"Komitas Ave, Yerevan","$189,000",Stone,No,Not available,5,102,4,1,from 2.75 m,4,Open balcony,Partial Furniture,Cosmetic Renovation
+Shengavit,Yerevan › Shengavit,"$80,000",Stone,No,Not available,4,55,2,1,from 2.75 m,3,Closed balcony,Partial Furniture,Euro Renovation
+Shengavit,"Չեխովի փողոց 39, Երևան","$85,000",Monolith,Yes,Available,12,45,2,1,from 2.8 m,5,Closed balcony,Available,Major Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","$72,000",Panels,No,Available,9,67,2,1,from 2.75 m,9,Closed balcony,Not available,No Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$105,000",Stone,No,Not available,2,68,2,1,from 3 m,2,Multiple balconies,Available,Major Renovation
+Avan,"Ավան-Առինջ 2-րդ միկրոշրջան, Երևան","$120,000",Panels,No,Available,9,82,4,1,from 2.75 m,7,Closed balcony,Available,Euro Renovation
+Shengavit,"Արշակունյաց պողոտա, Երևան","$82,000",Panels,No,Available,9,45,1,1,from 2.8 m,5,Closed balcony,Not available,Euro Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$165,000",Stone,No,Not available,4,105,3,2,from 3 m,2,Multiple balconies,Available,Major Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$65,000",Stone,No,Not available,4,34,1,1,from 3 m,2,Closed balcony,Available,Major Renovation
+Shengavit,"Garegin Nzhdeh Street, Yerevan","$180,000",Stone,No,Not available,4,92,4,1,from 3.2 m,4,Multiple balconies,Partial Furniture,Major Renovation
+Shengavit,"Մանանդյան փողոց, Երևան","$113,000",Stone,No,Not available,4,68,2,1,from 3 m,2,Closed balcony,Partial Furniture,Euro Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$160,000",Stone,No,Not available,4,45,2,1,from 2.7 m,2,Open balcony,Available,Major Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$79,000",Stone,No,Not available,5,55,2,1,from 2.75 m,4,Open balcony,Not available,Old Renovation
+Shengavit,"Չեխովի փողոց, Երևան","$63,000",Panels,No,Available,9,45,1,1,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Shengavit,Yerevan › Shengavit,"$95,000",Panels,No,Not available,9,97,3,1,from 2.75 m,4,Closed balcony,Not available,Old Renovation
+Kentron,"Yeznik Koghbaci Street, Երևան","$129,000",Panels,No,Available,11,41,2,1,from 2.8 m,5,Not available,Available,Partial Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$81,000",Stone,No,Not available,5,48,1,1,from 2.8 m,5,Closed balcony,Not available,Euro Renovation
+Avan,"Charents block, Yerevan","$79,000",Panels,No,Available,14,65,2,1,from 2.75 m,8,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$65,500",Panels,No,Available,14,47,1,1,from 2.7 m,3,Closed balcony,Not available,Cosmetic Renovation
+Shengavit,"Մանանդյանի փողոց, Երևան","$100,000",Stone,No,Not available,4,70,2,1,from 3 m,4,Closed balcony,Not available,Euro Renovation
+Avan,"Hrachya Acharyan street, Yerevan","$70,000",Stone,No,Not available,5,43,1,1,from 2.7 m,5,Not available,Not available,Euro Renovation
+Avan,Yerevan › Avan,"$104,000",Panels,No,Available,9,83,3,1,from 2.75 m,4,Closed balcony,Not available,Cosmetic Renovation
+Shengavit,"Yeghbayrutyan Street, Yerevan","$107,000",Stone,No,Not available,4,78,3,1,from 2.75 m,4,Multiple balconies,Partial Furniture,Euro Renovation
+Avan,"Marshal Khudyakov street, Yerevan","$95,000",Panels,No,Available,9,78,3,1,from 2.7 m,9,Closed balcony,Not available,Partial Renovation
+Davitashen,"Tigran Petrosyan street, Yerevan","$175,000",Panels,No,Available,9,96,4,1,from 2.7 m,1,Closed balcony,Available,Euro Renovation
+Avan,"Duryan street, Yerevan","$80,000",Panels,No,Available,9,75,3,1,from 2.75 m,6,Closed balcony,Not available,Partial Renovation
+Shengavit,"Կիևյան փողոց, Երևան","$188,000",Stone,No,Not available,5,80,3,1,from 3 m,3,Open balcony,Available,Major Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$60,000",Panels,No,Not available,9,45,1,1,from 2.7 m,8,Closed balcony,Not available,Old Renovation
+Avan,"Նարեկացի թաղամաս, Երևան","$95,000",Panels,No,Available,16,80,3,1,from 2.75 m,7,Closed balcony,Not available,Partial Renovation
+Avan,"Duryan street, Yerevan","$80,000",Panels,No,Available,9,73,3,1,from 2.7 m,4,Closed balcony,Not available,Partial Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$64,500",Panels,No,Available,9,46,1,1,from 2.7 m,1,Closed balcony,Not available,Partial Renovation
+Avan,"Avan-Arinj 1st Microdistrict, Yerevan","$85,000",Panels,No,Available,9,75,3,1,from 2.7 m,9,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$96,000",Panels,No,Available,9,74,3,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Avan,"Toumanyan block, Yerevan","$74,000",Panels,No,Not available,9,67,2,1,from 2.75 m,2,Closed balcony,Not available,Old Renovation
+Avan,"Հրաչյա Աճառյան 2րդ նրբ., Երևան","$110,000",Stone,No,Not available,5,105,4,1,from 2.75 m,1,Closed balcony,Not available,Major Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$105,000",Panels,No,Available,9,85,3,1,from 2.75 m,5,Closed balcony,Partial Furniture,Partial Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$200,000",Monolith,Yes,Available,13,94,3,1,from 2.75 m,6,Closed balcony,Partial Furniture,Euro Renovation
+Kanaker-Zeytun,"Dro street, Yerevan","$82,000",Stone,No,Not available,4,45,1,1,from 2.7 m,4,Closed balcony,By agreement,Euro Renovation
+Avan,"Isahakyan block, Yerevan","$65,000",Panels,No,Available,9,46,1,1,from 2.7 m,5,Closed balcony,Not available,Partial Renovation
+Avan,"Ավան-Առինջի 1-ին միկրոշրջան, Երևան","$64,500",Panels,No,Available,13,47,1,1,from 2.75 m,4,Closed balcony,Not available,Euro Renovation
+Avan,"Sayat-Nova block, Yerevan","$67,500",Panels,No,Available,9,46,1,1,from 2.7 m,8,Closed balcony,Not available,Old Renovation
+Avan,"Բրյուսով թաղամաս, Երևան","$62,000",Panels,No,Available,9,45,1,1,from 2.75 m,7,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Ավան-Առինջի 1-ին միկրոշրջան, Երևան","$93,000",Panels,No,Available,9,60,1,1,from 2.75 m,5,Closed balcony,By agreement,Major Renovation
+Malatia-Sebastia,"Arno Babajanian street 61, Yerevan","$73,000",Panels,No,Available,9,52,3,1,from 2.5 m,9,Closed balcony,Not available,Major Renovation
+Kentron,"Avetik Isahakyan street, Yerevan","$290,000",Stone,No,Not available,5,90,3,1,from 3.2 m,4,Open balcony,By agreement,Major Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$47,000",Panels,No,Available,16,28,2,1,from 2.75 m,10,Not available,Not available,Euro Renovation
+Avan,"Quchak block, Yerevan","$75,000",Panels,No,Available,9,52,1,1,from 2.75 m,4,Closed balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Raynis street, Yerevan","$90,000",Panels,No,Not available,4,64,3,1,from 2.7 m,4,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Չարենց թաղամաս, Yerevan","$81,000",Panels,No,Available,14,65,2,1,from 2.7 m,10,Closed balcony,Not available,Partial Renovation
+Kentron,"Կիլիկիա թաղամաս, Երևան","$98,000",Stone,No,Not available,4,54,3,1,from 2.75 m,4,Multiple balconies,Partial Furniture,Euro Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$92,000",Panels,No,Available,9,76,3,1,from 2.7 m,5,Closed balcony,By agreement,Cosmetic Renovation
+Avan,"Նարեկացու թաղամաս, Երևան","$70,000",Panels,No,Available,9,54,1,1,from 2.7 m,7,Closed balcony,Not available,Old Renovation
+Avan,Yerevan › Avan,"$65,500",Panels,No,Available,9,45,1,1,from 2.75 m,1,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Daniel Varujan street, Yerevan","$97,500",Panels,No,Available,9,82,3,1,from 2.7 m,5,Closed balcony,Partial Furniture,Euro Renovation
+Avan,"Նարեկացու թաղամաս, Երևան","$71,500",Panels,No,Available,9,54,2,1,from 2.75 m,1,Closed balcony,By agreement,Cosmetic Renovation
+Avan,"Isahakyan block, Yerevan","$98,000",Panels,No,Available,9,80,3,1,from 2.75 m,9,Closed balcony,Partial Furniture,Euro Renovation
+Avan,"Թումանյան թաղամաս, Երևան","$79,500",Panels,No,Available,9,65,2,1,from 2.75 m,9,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Raffi street, Yerevan","$120,000",Panels,No,Available,15,81,4,1,from 2.8 m,6,Not available,Available,Major Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$77,000",Panels,No,Available,9,65,2,1,from 2.75 m,9,Closed balcony,Not available,Partial Renovation
+Avan,"Նարեկացու թաղամաս, Երևան","$78,500",Panels,No,Available,9,54,1,1,from 2.75 m,9,Closed balcony,Not available,Old Renovation
+Avan,"Բրյուսով թաղամաս, Երևան","$98,500",Panels,No,Available,9,78,3,1,from 2.75 m,4,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$92,000",Panels,No,Available,9,76,4,1,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$140,000",Monolith,Yes,Available,14,70,2,1,from 2.75 m,13,Closed balcony,Not available,Euro Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$95,000",Panels,No,Available,9,78,3,1,from 2.7 m,7,Closed balcony,Not available,Partial Renovation
+Erebuni,"Rostovyan street, Yerevan","$119,000",Stone,No,Not available,5,75,3,1,from 2.75 m,3,Closed balcony,By agreement,Euro Renovation
+Avan,Yerevan › Avan,"$97,500",Panels,No,Available,14,77,3,1,from 2.7 m,2,Closed balcony,Not available,Cosmetic Renovation
+Erebuni,"Erebuni street, Yerevan","$100,000",Stone,No,Not available,5,90,3,1,from 2.8 m,5,Open balcony,Available,Euro Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$78,000",Panels,No,Available,9,62,2,1,from 2.7 m,9,Closed balcony,Not available,Old Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$97,000",Panels,No,Available,9,75,3,1,from 2.75 m,9,Closed balcony,Available,Cosmetic Renovation
+Avan,Yerevan › Avan,"$96,500",Panels,No,Available,9,67,2,1,from 2.6 m,5,Closed balcony,Not available,Euro Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$115,000",Panels,No,Available,14,108,4,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Avan,"Hovhanisyan block, Yerevan","$88,500",Panels,No,Not available,9,78,3,1,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$380,000",Monolith,Yes,Available,6,85,3,2,from 3.2 m,3,Open balcony,Available,Designer Renovation
+Avan,"Ավան-Առինջ 2-րդ միկրոշրջան, Երևան","$80,000",Panels,No,Available,9,66,2,1,from 2.75 m,1,Closed balcony,Not available,Euro Renovation
+Kentron,"Nalbandyan street, Երևան","$310,000",Stone,No,Not available,5,85,3,2,from 3 m,2,Not available,By agreement,Euro Renovation
+Avan,Yerevan › Avan,"$81,000",Panels,No,Available,9,67,2,1,from 2.75 m,7,Closed balcony,Not available,Partial Renovation
+Avan,"Չարենց թաղամաս, Yerevan","$89,000",Panels,No,Available,14,85,3,1,from 2.7 m,12,Closed balcony,Not available,Partial Renovation
+Avan,"Charents block, Yerevan","$71,000",Panels,No,Available,14,65,2,1,from 2.75 m,4,Closed balcony,Not available,Euro Renovation
+Avan,"Hovhanisyan block, Yerevan","$82,000",Panels,No,Available,9,80,3,1,from 2.7 m,8,Closed balcony,Not available,Partial Renovation
+Avan,"Toumanyan block, Yerevan","$110,000",Panels,No,Available,9,90,4,1,from 2.75 m,5,Closed balcony,Not available,Euro Renovation
+Avan,"Իսահակյան թաղամաս, Երևան","$83,000",Panels,No,Available,9,60,2,1,from 2.7 m,2,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Չարենց թաղամաս, Yerevan","$68,500",Panels,No,Available,14,50,1,1,from 2.7 m,5,Closed balcony,Not available,Old Renovation
+Avan,"Isahakyan block, Yerevan","$72,500",Panels,No,Available,9,60,2,2,from 2.75 m,7,Multiple balconies,Not available,No Renovation
+Avan,"Ավան-Առինջ 1-ին միկրոշրջան, Երևան","$63,000",Panels,No,Available,14,46,1,1,from 2.75 m,3,Closed balcony,Not available,Cosmetic Renovation
+Kanaker-Zeytun,"Դուրյան թաղամաս, Երևան","$63,000",Panels,No,Available,9,48,1,1,from 2.7 m,7,Closed balcony,Not available,Euro Renovation
+Avan,"Charents block, Yerevan","$62,500",Panels,No,Available,14,54,2,1,from 2.75 m,1,Open balcony,Not available,Old Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$98,000",Panels,No,Available,9,88,4,1,from 2.7 m,7,Closed balcony,Not available,Partial Renovation
+Avan,"Ավան-Առինջի 1-ին միկրոշրջան, Երևան","$78,500",Panels,No,Available,9,67,2,1,from 2.75 m,7,Closed balcony,Not available,Partial Renovation
+Arabkir,"Arabkir 51-st street, Yerevan","$75,500",Panels,No,Available,12,48,2,1,from 2.75 m,4,Open balcony,Not available,Euro Renovation
+Avan,"Թումանյան թաղամաս, Երևան","$81,500",Panels,No,Available,9,67,2,1,from 2.75 m,1,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Աղասի Խանջյանի փողոց, Երևան","$183,000",Panels,No,Available,9,65,2,1,from 2.75 m,4,Open balcony,By agreement,Partial Renovation
+Davitashen,"Davidashen 4-th block, Yerevan","$74,500",Panels,No,Available,9,60,2,1,from 2.8 m,5,Not available,Not available,Old Renovation
+Nor Nork,"Aksel Bakunts street, Yerevan","$60,000",Panels,No,Not available,5,36,1,1,from 2.6 m,4,Closed balcony,Not available,Designer Renovation
+Ajapnyak,"Գևորգ Չաուշի փողոց 140, Երևան","$115,000",Stone,Yes,Available,4,77,3,1,from 3 m,2,Open balcony,Not available,No Renovation
+Shengavit,"Sharuri street lane 19, Երևան","$52,000",Panels,No,Not available,4,31,1,1,from 2.6 m,4,Not available,Not available,Designer Renovation
+Kentron,"Մաշտոցի պողոտա 3, Երևան","$140,000",Stone,No,Not available,4,30,2,1,from 3.2 m,2,Not available,Available,Euro Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$235,000",Monolith,Yes,Available,13,101,3,2,from 3.2 m,12,Multiple balconies,Available,Euro Renovation
+Kentron,"Մխիթար Հերացու փողոց, Երևան","€199,999",Stone,No,Available,7,190,6,3+,from 2.8 m,7,Multiple balconies,Available,Old Renovation
+Erebuni,"Խաղաղ Դոնի փողոց 1/69, Երևան","$71,000",Panels,No,Available,9,45,2,1,from 2.8 m,6,Open balcony,Partial Furniture,Euro Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$88,000",Stone,No,Not available,5,49,2,1,from 3 m,5,Open balcony,Available,Euro Renovation
+Kanaker-Zeytun,"Դուրյան թաղամաս, Երևան","$63,000",Panels,No,Available,9,48,1,1,from 2.7 m,7,Closed balcony,Not available,Euro Renovation
+Avan,"Charents block, Yerevan","$62,500",Panels,No,Available,14,54,2,1,from 2.75 m,1,Open balcony,Not available,Old Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$98,000",Panels,No,Available,9,88,4,1,from 2.7 m,7,Closed balcony,Not available,Partial Renovation
+Avan,"Ավան-Առինջի 1-ին միկրոշրջան, Երևան","$78,500",Panels,No,Available,9,67,2,1,from 2.75 m,7,Closed balcony,Not available,Partial Renovation
+Arabkir,"Arabkir 51-st street, Yerevan","$75,500",Panels,No,Available,12,48,2,1,from 2.75 m,4,Open balcony,Not available,Euro Renovation
+Avan,"Թումանյան թաղամաս, Երևան","$81,500",Panels,No,Available,9,67,2,1,from 2.75 m,1,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Աղասի Խանջյանի փողոց, Երևան","$183,000",Panels,No,Available,9,65,2,1,from 2.75 m,4,Open balcony,By agreement,Partial Renovation
+Avan,"Նարեկացի թաղամաս, Երևան","$105,000",Panels,No,Available,16,98,4,1,from 2.7 m,2,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Mesrop Mashtots Avenue, Երևան","$190,000",Panels,No,Available,12,68,3,1,from 2.7 m,12,Open balcony,By agreement,Euro Renovation
+Avan,"Duryan street, Yerevan","$68,000",Panels,No,Available,9,48,1,1,from 2.75 m,2,Closed balcony,Available,Euro Renovation
+Malatia-Sebastia,"Arno Babajanian street, Yerevan","$95,000",Panels,No,Available,9,75,3,2,from 2.75 m,3,Closed balcony,Available,Euro Renovation
+Nor Nork,"Կարախանյան փողոց, Երևան","$82,000",Panels,No,Available,9,80,3,1,from 2.75 m,7,Closed balcony,Not available,Euro Renovation
+Kentron,"Abovyan street, Երևան","$280,000",Monolith,Yes,Available,10,67,3,1,from 3 m,9,Open balcony,By agreement,Euro Renovation
+Avan,"Bryusov block, Yerevan","$82,000",Panels,No,Available,9,66,2,1,from 2.75 m,1,Closed balcony,Not available,Euro Renovation
+Kentron,"Saryan street, Երևան","$183,000",Panels,No,Available,9,70,2,1,from 2.8 m,2,Open balcony,By agreement,Major Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$89,500",Panels,No,Available,9,75,3,1,from 2.75 m,2,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Mesrop Mashtots Avenue, Երևան","$175,000",Stone,No,Not available,5,34,1,1,from 3 m,3,Not available,By agreement,Euro Renovation
+Kentron,"Aram Street, Yerevan","$300,000",Stone,No,Not available,5,90,3,1,from 3 m,3,Open balcony,By agreement,Major Renovation
+Avan,Yerevan › Avan,"$115,000",Panels,No,Available,9,92,4,1,from 2.75 m,9,Closed balcony,By agreement,Designer Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$315,000",Stone,No,Not available,5,90,3,1,from 3.2 m,2,Closed balcony,By agreement,Major Renovation
+Avan,"Toumanyan block, Yerevan","$80,000",Panels,No,Available,9,68,2,1,from 2.7 m,9,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Դուրյան թաղամաս, Երևան","$81,500",Panels,No,Available,9,64,2,1,from 2.75 m,8,Closed balcony,Not available,Old Renovation
+Avan,"Narekatsi block, Yerevan","$62,000",Panels,No,Available,16,48,1,1,from 2.75 m,10,Closed balcony,Not available,Partial Renovation
+Avan,"Hrachya Acharyan street 1st lane, Yerevan","$60,000",Stone,No,Not available,4,40,1,1,from 2.6 m,4,Closed balcony,Not available,Old Renovation
+Avan,"Quchak block, Yerevan","$72,000",Panels,No,Available,9,54,1,1,from 2.7 m,7,Closed balcony,Not available,Partial Renovation
+Kentron,"Saryan street, Երևան","$145,000",Panels,No,Available,10,42,2,1,from 2.7 m,4,Not available,By agreement,Euro Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$200,000",Monolith,No,Available,16,99,3,1,from 2.75 m,8,Open balcony,By agreement,Old Renovation
+Avan,"Hrachya Acharyan Street 1st Deadlock, Yerevan","$55,000",Stone,No,Not available,4,36,1,1,from 2.6 m,4,Closed balcony,Available,Cosmetic Renovation
+Avan,"Ավան-Առինջի 1-ին միկրոշրջան, Երևան","$81,000",Panels,No,Available,9,68,2,1,from 2.75 m,8,Closed balcony,Not available,Partial Renovation
+Kentron,"Frik Street, Yerevan","$220,000",Panels,No,Available,9,90,3,1,from 2.7 m,5,Open balcony,Not available,Euro Renovation
+Avan,Yerevan › Avan,"$92,000",Panels,No,Available,16,83,3,1,from 2.7 m,16,Closed balcony,Not available,Cosmetic Renovation
+Avan,"Հրաչյա Աճառյանի փողոց, Երևան","$62,000",Stone,No,Not available,4,48,1,1,from 2.6 m,3,Closed balcony,Not available,Partial Renovation
+Malatia-Sebastia,"Monte Melkonyan Avenue, Yerevan","$185,000",Monolith,Yes,Available,13,110,3,2,from 3 m,5,Multiple balconies,Not available,No Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$65,000",Panels,No,Available,9,44,1,1,from 2.8 m,3,Closed balcony,Not available,No Renovation
+Shengavit,"Shirak street, Yerevan","$46,000",Stone,No,Not available,4,30,1,1,from 2.7 m,1,Open balcony,Not available,No Renovation
+Kentron,"Nalbandyan street, Yerevan","$255,000",Stone,No,Available,5,86,3,1,from 2.8 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Yeznik Koghbaci Street, Երևան","$230,000",Stone,No,Not available,5,65,3,1,from 2.8 m,4,Open balcony,By agreement,Euro Renovation
+Kentron,"Tumanyan street, Երևան","$300,000",Stone,No,Not available,5,68,2,1,from 3 m,5,Closed balcony,By agreement,Designer Renovation
+Kentron,"Abovyan street, Երևան","$160,000",Stone,No,Available,5,37,1,1,from 3 m,5,Open balcony,By agreement,Major Renovation
+Kentron,"Բյուզանդի փողոց, Երևան","$350,000",Monolith,Yes,Available,17,100,3,2,from 3 m,5,Open balcony,Not available,No Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$205,000",Panels,No,Available,9,84,3,1,from 2.8 m,4,Multiple balconies,Available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$260,000",Monolith,Yes,Available,14,67,2,2,from 3.2 m,12,Not available,By agreement,Euro Renovation
+Kentron,"Tumanyan street, Yerevan","$185,000",Stone,No,Not available,5,41,2,1,from 3.2 m,2,Open balcony,Available,Designer Renovation
+Arabkir,"Komitas Avenue 8, Yerevan","$170,000",Monolith,Yes,Available,14,102,3,2,from 3 m,3,Not available,Not available,No Renovation
+Kentron,"Nalbandyan street, Երևան","$135,000",Stone,No,Not available,5,46,1,1,from 2.75 m,2,Not available,By agreement,Old Renovation
+Arabkir,"Gyulbenkyan street, Yerevan","$155,000",Stone,No,Not available,5,78,3,1,from 2.7 m,3,Multiple balconies,Partial Furniture,Euro Renovation
+Kentron,"Pushkin street, Երևան","$250,000",Panels,No,Available,9,90,3,1,from 2.7 m,8,Not available,By agreement,Euro Renovation
+Kentron,"Charents street, Yerevan","$130,000",Stone,No,Not available,5,54,2,1,from 3 m,2,Not available,Not available,Major Renovation
+Kentron,"Tpagrichner Street, Yerevan","$170,000",Stone,No,Not available,4,75,2,1,from 3 m,3,Open balcony,Not available,Old Renovation
+Kentron,"Tumanyan street, Yerevan","$105,000",Stone,No,Not available,5,38,2,1,from 3 m,1,Not available,By agreement,Euro Renovation
+Shengavit,"Mantashyan street, Yerevan","$160,000",Stone,No,Not available,5,94,3,2,from 2.75 m,5,Open balcony,Partial Furniture,Euro Renovation
+Kentron,"Խաչատուր Աբովյանի փողոց, Երևան","$200,000",Stone,No,Not available,4,75,2,1,from 3.5 m,3,Open balcony,Not available,Old Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$215,000",Stone,No,Not available,5,68,3,1,from 3.2 m,3,Open balcony,By agreement,Major Renovation
+Shengavit,"Garegin Nzhdeh Street, Yerevan","$95,000",Stone,No,Not available,4,85,3,1,from 3.2 m,4,Closed balcony,Not available,No Renovation
+Kentron,"Tumanyan street, Երևան","$260,000",Panels,No,Available,9,110,4,2,from 2.8 m,8,Open balcony,By agreement,Old Renovation
+Kentron,"Teryan street, Yerevan","$350,000",Stone,No,Not available,4,107,3,2,from 3.2 m,4,Open balcony,Available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$85,000",Panels,No,Available,9,65,2,2,from 2.75 m,3,Closed balcony,Partial Furniture,Partial Renovation
+Kentron,"Teryan street, Yerevan","$200,000",Panels,No,Available,10,70,2,1,from 2.8 m,4,Open balcony,By agreement,Euro Renovation
+Shengavit,"Bagratunyats Avenue, Yerevan","€90,000",Panels,No,Available,14,54,2,1,from 2.75 m,4,Closed balcony,Available,Euro Renovation
+Kentron,"Mesrop Mashtots Avenue, Երևան","$350,000",Stone,No,Not available,4,90,4,2,from 3 m,4,Multiple balconies,By agreement,Designer Renovation
+Kentron,"Byuzand Street, Yerevan","$650,000",Monolith,Yes,Available,16,125,3,2,from 3 m,14,Multiple balconies,Not available,Designer Renovation
+Shengavit,"Garegin Nzhdeh Street, Yerevan","$55,000",Stone,No,Not available,4,30,1,1,from 2.7 m,4,Open balcony,Available,Old Renovation
+Kentron,"Teryan street, Yerevan","$300,000",Stone,No,Not available,5,100,3,2,from 3 m,2,Not available,By agreement,Euro Renovation
+Kentron,"Byuzand Street, Երևան","$320,000",Monolith,Yes,Available,16,65,2,1,from 3 m,12,Open balcony,By agreement,Euro Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$71,000",Panels,No,Available,9,40,1,1,from 2.75 m,7,Closed balcony,Available,Euro Renovation
+Arabkir,"Hovsep Emin street, Yerevan","$150,000",Panels,No,Not available,14,90,4,1,from 2.8 m,6,Not available,By agreement,Euro Renovation
+Kentron,"Աբովյան փողոց, Yerevan","$450,000",Monolith,Yes,Available,6,82,3,1,from 3 m,6,Not available,Available,Major Renovation
+Shengavit,"Sharuri street, Yerevan","$100,000",Stone,No,Not available,4,92,4,1,from 3 m,2,Open balcony,Not available,Major Renovation
+Shengavit,"Աերացիա թաղամաս, Երևան","$55,000",Stone,No,Not available,5,46,1,1,from 2.8 m,2,Closed balcony,Partial Furniture,Partial Renovation
+Arabkir,"Կոմիտասի պողոտա, Yerevan","$135,000",Stone,No,Not available,5,65,2,1,from 3.2 m,2,Not available,Not available,Old Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Yerevan","$175,000",Stone,No,Not available,5,113,4,1,from 2.8 m,3,Open balcony,By agreement,Major Renovation
+Arabkir,"Vratsakan street, Yerevan","$127,000",Stone,No,Not available,5,97,3,2,from 2.8 m,3,Multiple balconies,Partial Furniture,Major Renovation
+Kentron,"Nalbandyan street, Yerevan","$150,000",Stone,No,Not available,5,45,2,1,from 2.75 m,4,Not available,By agreement,Cosmetic Renovation
+Arabkir,"Նաիրի Զարյան փողոց, Երևան","$130,000",Panels,No,Available,12,63,3,1,from 2.8 m,2,Not available,Available,Major Renovation
+Kentron,"Khanjyan Street, Yerevan","$190,000",Stone,No,Available,5,70,2,1,from 3.2 m,5,Open balcony,By agreement,Major Renovation
+Arabkir,"Azatutyan avenue, Երևան","$95,000",Stone,No,Not available,5,37,2,1,from 3 m,2,Open balcony,By agreement,Major Renovation
+Arabkir,"Գյուլբենկյան փողոց, Yerevan","$130,000",Panels,No,Available,14,81,3,1,from 2.8 m,4,Closed balcony,Available,Major Renovation
+Arabkir,"Babayan street, Yerevan","$124,000",Stone,No,Not available,5,76,3,1,from 3 m,3,Closed balcony,Not available,Partial Renovation
+Davitashen,"Davidashen 4-th block, Yerevan","$87,000",Panels,No,Available,14,64,2,1,from 2.8 m,4,Closed balcony,Not available,Old Renovation
+Kentron,"Ծատուրյան փողոց, Երևան","$105,000",Panels,No,Available,14,62,2,1,from 2.75 m,1,Not available,Available,Cosmetic Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$150,000",Stone,No,Not available,4,32,1,1,from 3 m,4,Open balcony,Available,Major Renovation
+Kentron,"Argishti street, Yerevan","$250,000",Monolith,Yes,Available,15,90,3,2,from 3 m,1,Not available,By agreement,Major Renovation
+Ajapnyak,"Mazmanyan Street, Yerevan","$120,000",Panels,No,Available,14,120,4,1,from 2.8 m,11,Open balcony,Partial Furniture,Old Renovation
+Davitashen,"Davidashen 2-nd block, Yerevan","$83,000",Panels,No,Available,9,53,2,1,from 2.8 m,2,Closed balcony,Available,Cosmetic Renovation
+Davitashen,"Davidashen 1-st block, Yerevan","$245,000",Monolith,Yes,Available,12,124,4,2,from 2.75 m,9,Open balcony,Available,Major Renovation
+Davitashen,"Davidashen 2-nd street, Yerevan","$140,000",Panels,No,Available,14,108,4,2,from 2.8 m,9,Open balcony,Not available,Major Renovation
+Davitashen,"Դավթաշենի 4-րդ զանգված, Երևան","$155,000",Monolith,Yes,Available,14,67,2,1,from 3 m,4,Closed balcony,Partial Furniture,Euro Renovation
+Davitashen,"Anastas Mikoyan street, Yerevan","$120,000",Monolith,Yes,Available,15,64,2,1,from 3 m,4,Open balcony,Not available,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$100,000",Stone,No,Not available,5,83,4,1,from 2.75 m,5,Open balcony,Available,Partial Renovation
+Kanaker-Zeytun,"Զաքարիա Քանաքեռցու փողոց, Երևան","$113,000",Panels,No,Available,9,93,4,1,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Davitashen,"Davidashen 2-nd block, Yerevan","$102,000",Panels,No,Available,10,71,2,1,from 2.8 m,4,Multiple balconies,Partial Furniture,Old Renovation
+Kentron,"Abovyan street, Yerevan","$322,000",Stone,No,Not available,4,89,3,2,from 3 m,4,Closed balcony,Partial Furniture,Major Renovation
+Davitashen,"Davidashen 4-th block, Yerevan","$113,000",Panels,No,Available,9,98,3,1,from 2.8 m,9,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Amiryan Street, Yerevan","$130,000",Panels,No,Available,11,40,1,1,from 3 m,10,Open balcony,Available,Major Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$100,000",Panels,No,Available,9,74,3,1,from 2.8 m,7,Closed balcony,Available,Partial Renovation
+Arabkir,"Կոմիտասի պողոտա, Yerevan","$139,000",Stone,No,Not available,5,83,3,1,from 2.8 m,4,Multiple balconies,Available,Cosmetic Renovation
+Shengavit,"Shirak street, Yerevan","$120,000",Panels,No,Not available,4,102,4,1,from 2.6 m,1,Not available,Available,Designer Renovation
+Arabkir,"Նիկողայոս Ադոնցի փողոց, Երևան","$195,000",Monolith,Yes,Available,9,99,3,2,from 3 m,4,Open balcony,Not available,Major Renovation
+Arabkir,"Kievyan street, Yerevan","49,000,000 ֏",Panels,No,Available,10,78,3,2,from 2.8 m,5,Closed balcony,By agreement,Old Renovation
+Kentron,"Մարշալ Բաղրամյան պողոտայի 3-րդ նրբանցք 7, Երևան","$500,000",Monolith,Yes,Available,6,185,4,3+,from 3.2 m,2,Multiple balconies,Not available,No Renovation
+Kentron,"Nar-Dos street 34, Yerevan","$260,000",Monolith,Yes,Not available,4,133,4,2,from 3.2 m,2,Multiple balconies,Available,Major Renovation
+Ajapnyak,"Գրիգոր Հասրաթյանի փողոց, Երևան","$93,000",Monolith,Yes,Available,14,59,2,1,from 3 m,3,Open balcony,Not available,No Renovation
+Nor Nork,"Աշոտ Հովհաննիսյանի փողոց 24/1, Երևան","$63,000",Stone,No,Not available,5,38,2,1,from 2.75 m,5,Open balcony,Not available,Designer Renovation
+Arabkir,"Հրաչյա Քոչարի փողոց, Երևան","$139,000",Stone,No,Not available,5,96,3,1,from 2.75 m,4,Open balcony,Available,Euro Renovation
+Davitashen,"SasnaTsrer street, Yerevan","$229,000",Monolith,Yes,Available,18,90,3,1,from 3 m,3,Open balcony,Not available,No Renovation
+Kentron,"Khanjyan Street, Yerevan","$190,000",Stone,No,Available,5,70,2,1,from 3.2 m,5,Open balcony,By agreement,Major Renovation
+Arabkir,"Azatutyan avenue, Երևան","$95,000",Stone,No,Not available,5,37,2,1,from 3 m,2,Open balcony,By agreement,Major Renovation
+Arabkir,"Գյուլբենկյան փողոց, Yerevan","$130,000",Panels,No,Available,14,81,3,1,from 2.8 m,4,Closed balcony,Available,Major Renovation
+Arabkir,"Babayan street, Yerevan","$124,000",Stone,No,Not available,5,76,3,1,from 3 m,3,Closed balcony,Not available,Partial Renovation
+Davitashen,"Davidashen 4-th block, Yerevan","$87,000",Panels,No,Available,14,64,2,1,from 2.8 m,4,Closed balcony,Not available,Old Renovation
+Kentron,"Ծատուրյան փողոց, Երևան","$105,000",Panels,No,Available,14,62,2,1,from 2.75 m,1,Not available,Available,Cosmetic Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$150,000",Stone,No,Not available,4,32,1,1,from 3 m,4,Open balcony,Available,Major Renovation
+Kentron,"Argishti street, Yerevan","$250,000",Monolith,Yes,Available,15,90,3,2,from 3 m,1,Not available,By agreement,Major Renovation
+Ajapnyak,"Mazmanyan Street, Yerevan","$120,000",Panels,No,Available,14,120,4,1,from 2.8 m,11,Open balcony,Partial Furniture,Old Renovation
+Davitashen,"Davidashen 2-nd block, Yerevan","$83,000",Panels,No,Available,9,53,2,1,from 2.8 m,2,Closed balcony,Available,Cosmetic Renovation
+Davitashen,"Davidashen 1-st block, Yerevan","$245,000",Monolith,Yes,Available,12,124,4,2,from 2.75 m,9,Open balcony,Available,Major Renovation
+Davitashen,"Davidashen 2-nd street, Yerevan","$140,000",Panels,No,Available,14,108,4,2,from 2.8 m,9,Open balcony,Not available,Major Renovation
+Davitashen,"Դավթաշենի 4-րդ զանգված, Երևան","$155,000",Monolith,Yes,Available,14,67,2,1,from 3 m,4,Closed balcony,Partial Furniture,Euro Renovation
+Davitashen,"Anastas Mikoyan street, Yerevan","$120,000",Monolith,Yes,Available,15,64,2,1,from 3 m,4,Open balcony,Not available,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$100,000",Stone,No,Not available,5,83,4,1,from 2.75 m,5,Open balcony,Available,Partial Renovation
+Kanaker-Zeytun,"Զաքարիա Քանաքեռցու փողոց, Երևան","$113,000",Panels,No,Available,9,93,4,1,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Davitashen,"Davidashen 2-nd block, Yerevan","$102,000",Panels,No,Available,10,71,2,1,from 2.8 m,4,Multiple balconies,Partial Furniture,Old Renovation
+Kentron,"Abovyan street, Yerevan","$322,000",Stone,No,Not available,4,89,3,2,from 3 m,4,Closed balcony,Partial Furniture,Major Renovation
+Davitashen,"Davidashen 4-th block, Yerevan","$113,000",Panels,No,Available,9,98,3,1,from 2.8 m,9,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Amiryan Street, Yerevan","$130,000",Panels,No,Available,11,40,1,1,from 3 m,10,Open balcony,Available,Major Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$100,000",Panels,No,Available,9,74,3,1,from 2.8 m,7,Closed balcony,Available,Partial Renovation
+Arabkir,"Կոմիտասի պողոտա, Yerevan","$139,000",Stone,No,Not available,5,83,3,1,from 2.8 m,4,Multiple balconies,Available,Cosmetic Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","$62,000",Panels,No,Not available,5,52,2,1,from 2.6 m,5,Open balcony,By agreement,No Renovation
+Kanaker-Zeytun,"David Anhaght street, Yerevan","$145,000",Monolith,Yes,Available,8,72,3,1,from 3 m,8,Open balcony,Not available,No Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$182,000",Panels,No,Available,9,80,2,1,from 2.75 m,9,Open balcony,Not available,Old Renovation
+Kentron,"Khorenatsi street, Yerevan","$62,000",Stone,No,Not available,4,30,1,1,from 2.75 m,1,Not available,Not available,Cosmetic Renovation
+Kentron,Yerevan › Kentron,"$150,000",Panels,No,Available,13,100,3,1,from 2.7 m,3,Closed balcony,Not available,Euro Renovation
+Kentron,"Նալբանդյան փողոց, Երևան","$170,000",Panels,No,Available,10,80,3,1,from 2.7 m,10,Not available,Not available,Old Renovation
+Arabkir,"Armen Tigranyan street, Yerevan","$122,000",Panels,No,Available,12,85,3,1,from 3 m,2,Closed balcony,Partial Furniture,Old Renovation
+Arabkir,"Avet Avetisyan Street, Yerevan","$225,000",Panels,No,Available,16,92,3,1,from 2.6 m,13,Not available,Available,Designer Renovation
+Kentron,"Khanjyan Street, Yerevan","$250,000",Stone,No,Available,6,95,4,1,from 3 m,5,Not available,Not available,Major Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$250,000",Monolith,Yes,Available,14,100,3,2,from 3 m,8,Not available,Not available,Major Renovation
+Kentron,"Saryan Street, Yerevan","$290,000",Panels,No,Available,9,90,3,1,from 2.8 m,1,Not available,Not available,Major Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$220,000",Stone,No,Not available,5,118,3,1,from 3 m,4,Closed balcony,Not available,Major Renovation
+Kentron,"Amiryan Street, Yerevan","$205,000",Panels,No,Not available,10,96,3,1,from 2.8 m,3,Open balcony,Not available,Old Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$184,000",Panels,No,Available,14,71,2,1,from 2.8 m,11,Closed balcony,Not available,No Renovation
+Ajapnyak,"Մելքումովի փողոց, Երևան","$90,000",Monolith,Yes,Available,7,60,2,1,from 2.75 m,6,Not available,Not available,Designer Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$215,000",Stone,No,Not available,5,63,2,1,from 3 m,4,Not available,Not available,Designer Renovation
+Kentron,Yerevan › Kentron,"$310,000",Monolith,Yes,Available,21,110,3,1,from 3 m,13,Open balcony,Not available,Major Renovation
+Kentron,"Kajaznuni street, Yerevan","$210,000",Stone,No,Not available,5,100,4,1,from 3 m,3,Not available,Not available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$550,000",Stone,No,Not available,4,350,6,3+,from 3 m,4,Multiple balconies,Not available,Major Renovation
+Davitashen,"Դավթաշեն 3-րդ թաղամաս, Երևան","$148,000",Panels,No,Available,9,78,3,1,from 2.75 m,3,Not available,Available,Euro Renovation
+Davitashen,"Davidashen 2-nd block, Yerevan","$160,000",Panels,No,Available,10,79,3,1,from 2.75 m,6,Open balcony,Available,Euro Renovation
+Kentron,"Byron street 1, Yerevan","$715,000",Stone,No,Not available,5,216,4,1,from 2.7 m,4,Open balcony,Not available,Major Renovation
+Kentron,"Zakian street, Yerevan","$408,000",Stone,No,Not available,6,143,4,1,from 2.8 m,3,Open balcony,Not available,Major Renovation
+Kentron,"Moskovyan street, Երևան","$450,000",Stone,No,Available,6,92,3,1,from 3.5 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Yervand Kochar street, Yerevan","$200,000",Panels,No,Available,9,99,3,1,from 2.7 m,5,Closed balcony,Not available,Major Renovation
+Kentron,"Vardanants Street, Yerevan","$125,000",Panels,No,Available,10,70,2,1,from 2.7 m,3,Closed balcony,Not available,Euro Renovation
+Malatia-Sebastia,"Улица Гусана Шерама, Ереван","$120,000",Panels,No,Available,9,90,4,1,from 2.75 m,6,Closed balcony,Available,Partial Renovation
+Davitashen,"Դավթաշեն 4-րդ թաղամաս, Երևան","$176,000",Panels,No,Available,9,98,3,1,from 2.75 m,3,Not available,Available,Euro Renovation
+Kentron,"Aram Street, Yerevan","$280,000",Monolith,Yes,Available,10,70,2,1,from 3 m,9,Open balcony,Not available,Major Renovation
+Nor Nork,"Թոթովենց նրբանցք, Երևան","$82,000",Panels,No,Not available,5,49,2,1,from 2.75 m,3,Closed balcony,Available,Cosmetic Renovation
+Kentron,"Derenik Demirchyan street, Yerevan","$165,000",Stone,No,Not available,6,90,2,1,from 2.75 m,6,Open balcony,Not available,Major Renovation
+Kentron,"Բայրոնի փողոց, Երևան","$315,000",Stone,No,Not available,3,133,4,2,from 2.75 m,1,Closed balcony,Not available,Major Renovation
+Kentron,"Զաքյան փողոց, Երևան","$420,000",Stone,No,Not available,5,160,5,2,from 3 m,4,Open balcony,Available,Major Renovation
+Arabkir,"Aram Khachatryan street, Yerevan","$119,000",Panels,No,Available,13,50,2,1,from 2.75 m,9,Not available,By agreement,Designer Renovation
+Ajapnyak,"Melkumov srteet, Yerevan","$170,000",Monolith,Yes,Not available,5,93,3,1,from 3.2 m,4,Open balcony,Available,Major Renovation
+Kanaker-Zeytun,"Meliq Meliqyan street 17, Yerevan","$65,000",Panels,No,Available,9,54,1,1,from 2.75 m,2,Closed balcony,Available,Partial Renovation
+Kentron,"Սարյանի փողոց, Երևան","$240,000",Panels,No,Available,16,88,4,1,from 3 m,15,Not available,Partial Furniture,Major Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$142,000",Panels,No,Available,9,42,2,1,from 2.8 m,2,Not available,Available,Major Renovation
+Kentron,"Verin Antarayin street, Yerevan","$260,000",Monolith,Yes,Available,14,52,2,1,from 3 m,3,Multiple balconies,Available,Major Renovation
+Arabkir,"Mamikonyants street, Yerevan","$177,000",Stone,No,Not available,5,76,3,1,from 2.75 m,5,Open balcony,Available,Major Renovation
+Malatia-Sebastia,"Օհանովի փողոց, Yerevan","$79,000",Panels,No,Available,9,47,1,1,from 2.75 m,6,Closed balcony,Not available,Major Renovation
+Malatia-Sebastia,"Svachyan street, Yerevan","$100,000",Panels,No,Available,9,90,4,2,from 2.75 m,9,Closed balcony,Available,Cosmetic Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$130,000",Panels,No,Available,9,75,3,1,from 2.75 m,3,Open balcony,Available,Designer Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$130,000",Panels,No,Available,9,75,3,1,from 2.75 m,7,Closed balcony,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$88,000",Panels,No,Available,9,68,2,2,from 2.75 m,3,Closed balcony,Available,Euro Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$110,000",Panels,No,Available,9,100,3,2,from 2.75 m,7,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$98,000",Panels,No,Available,9,62,2,1,from 2.75 m,8,Multiple balconies,Available,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$152,000",Panels,No,Available,9,88,4,1,from 2.75 m,6,Closed balcony,Available,Designer Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$118,000",Panels,No,Available,9,90,4,2,from 2.75 m,9,Open balcony,Available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$106,000",Panels,No,Available,14,85,3,2,from 2.75 m,12,Closed balcony,Not available,Euro Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$130,000",Panels,No,Available,14,85,3,2,from 2.75 m,8,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$112,000",Panels,No,Available,9,90,4,2,from 2.75 m,5,Multiple balconies,Not available,Partial Renovation
+Kanaker-Zeytun,"Gogol street 3, Yerevan","$76,500",Panels,No,Not available,4,55,2,1,from 2.7 m,4,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$137,000",Panels,No,Available,9,72,3,1,from 2.8 m,7,Multiple balconies,Partial Furniture,Designer Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$120,000",Panels,No,Available,14,85,3,2,from 2.75 m,11,Multiple balconies,Available,Euro Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$127,000",Panels,No,Available,9,80,3,1,from 2.75 m,8,Multiple balconies,Available,Major Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$90,000",Panels,No,Available,14,91,3,2,from 2.75 m,13,Multiple balconies,Not available,Old Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$75,000",Panels,No,Available,14,65,2,2,from 2.75 m,13,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$143,000",Panels,No,Available,9,90,4,2,from 2.75 m,5,Multiple balconies,Not available,Major Renovation
+Malatia-Sebastia,"Sebastia St, Երևան","$88,000",Stone,No,Not available,5,73,3,1,from 2.7 m,3,Open balcony,By agreement,Euro Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$125,000",Panels,No,Available,9,80,3,2,from 2.75 m,6,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$72,000",Panels,No,Available,9,50,1,1,from 2.75 m,8,Closed balcony,Not available,Euro Renovation
+Kanaker-Zeytun,"Ezras Hasratian street, Yerevan","$69,000",Panels,No,Available,9,46,2,1,from 2.75 m,9,Open balcony,Not available,No Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$75,000",Panels,No,Available,9,54,1,1,from 2.75 m,2,Closed balcony,Available,Euro Renovation
+Kentron,"Tumanyan street, Yerevan","$450,000",Monolith,Yes,Available,7,95,3,2,from 3 m,4,Open balcony,Available,Major Renovation
+Malatia-Sebastia,"Զորավար Անդրանիկի փողոց, Երևան","$78,000",Panels,No,Available,14,55,2,2,from 2.75 m,13,Closed balcony,Partial Furniture,Euro Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$85,000",Panels,No,Available,9,45,1,1,from 2.75 m,5,Closed balcony,Available,Euro Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$75,000",Panels,No,Available,9,67,2,2,from 2.75 m,3,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$123,000",Panels,No,Available,16,80,3,1,from 2.75 m,13,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$107,000",Panels,No,Available,9,75,3,2,from 2.75 m,2,Closed balcony,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$73,000",Stone,No,Not available,5,62,3,2,from 2.75 m,2,Multiple balconies,Available,Cosmetic Renovation
+Malatia-Sebastia,"Kurghinyan street, Yerevan","$80,000",Stone,No,Not available,5,75,2,1,from 2.75 m,4,Multiple balconies,By agreement,No Renovation
+Shengavit,"Aragats street, Yerevan","$75,000",Panels,No,Available,10,54,1,1,from 2.8 m,1,Not available,Not available,Major Renovation
+Kentron,"Verin Antarayin street, Yerevan","$440,000",Monolith,Yes,Available,5,117,4,2,from 3 m,2,Open balcony,Available,Major Renovation
+Nor Nork,"Gyurjyan street, Yerevan","$150,000",Monolith,Yes,Available,13,87,3,1,from 2.8 m,9,Not available,Partial Furniture,Major Renovation
+Arabkir,"Aram Khachatryan street 26/1, Yerevan","$83,500",Panels,No,Available,9,42,2,1,from 2.7 m,2,Open balcony,Not available,Designer Renovation
+Arabkir,"Babayan street 26, Yerevan","$132,000",Panels,No,Available,9,80,3,1,from 2.8 m,2,Open balcony,Available,Major Renovation
+Nor Nork,"Moldovakan street, Yerevan","$72,000",Panels,No,Available,9,67,3,1,from 2.75 m,9,Closed balcony,Not available,No Renovation
+Kentron,"Saryan Street, Yerevan","$160,000",Stone,No,Available,8,62,2,1,from 2.75 m,3,Closed balcony,Not available,No Renovation
+Davitashen,"Davtashen 1st Block 41, Yerevan","$128,000",Panels,No,Available,16,106,4,1,from 2.8 m,8,Multiple balconies,Not available,Old Renovation
+Kentron,"Sayat Nova avenue 14, Yerevan","$245,000",Stone,No,Not available,5,60,2,1,from 2.8 m,3,Open balcony,Available,Major Renovation
+Erebuni,"Erebuni street, Yerevan","$81,000",Stone,No,Not available,5,72,3,1,from 2.6 m,5,Closed balcony,Not available,Cosmetic Renovation
+Arabkir,"Sundukyan Street 25, Yerevan","$153,000",Stone,No,Not available,5,79,3,1,from 2.8 m,3,Open balcony,Partial Furniture,Designer Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$90,000",Panels,No,Available,14,91,3,2,from 2.75 m,13,Multiple balconies,Not available,Old Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$75,000",Panels,No,Available,14,65,2,2,from 2.75 m,13,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$143,000",Panels,No,Available,9,90,4,2,from 2.75 m,5,Multiple balconies,Not available,Major Renovation
+Malatia-Sebastia,"Sebastia St, Երևան","$88,000",Stone,No,Not available,5,73,3,1,from 2.7 m,3,Open balcony,By agreement,Euro Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$125,000",Panels,No,Available,9,80,3,2,from 2.75 m,6,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$72,000",Panels,No,Available,9,50,1,1,from 2.75 m,8,Closed balcony,Not available,Euro Renovation
+Kanaker-Zeytun,"Ezras Hasratian street, Yerevan","$69,000",Panels,No,Available,9,46,2,1,from 2.75 m,9,Open balcony,Not available,No Renovation
+Malatia-Sebastia,Yerevan › Malatia-Sebastia,"$75,000",Panels,No,Available,9,54,1,1,from 2.75 m,2,Closed balcony,Available,Euro Renovation
+Kentron,"Tumanyan street, Yerevan","$450,000",Monolith,Yes,Available,7,95,3,2,from 3 m,4,Open balcony,Available,Major Renovation
+Malatia-Sebastia,"Զորավար Անդրանիկի փողոց, Երևան","$78,000",Panels,No,Available,14,55,2,2,from 2.75 m,13,Closed balcony,Partial Furniture,Euro Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$85,000",Panels,No,Available,9,45,1,1,from 2.75 m,5,Closed balcony,Available,Euro Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$75,000",Panels,No,Available,9,67,2,2,from 2.75 m,3,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Մալաթիայի փողոց, Երևան","$123,000",Panels,No,Available,16,80,3,1,from 2.75 m,13,Closed balcony,Available,Major Renovation
+Malatia-Sebastia,"Malatia street, Yerevan","$107,000",Panels,No,Available,9,75,3,2,from 2.75 m,2,Closed balcony,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$73,000",Stone,No,Not available,5,62,3,2,from 2.75 m,2,Multiple balconies,Available,Cosmetic Renovation
+Malatia-Sebastia,"Kurghinyan street, Yerevan","$80,000",Stone,No,Not available,5,75,2,1,from 2.75 m,4,Multiple balconies,By agreement,No Renovation
+Shengavit,"Aragats street, Yerevan","$75,000",Panels,No,Available,10,54,1,1,from 2.8 m,1,Not available,Not available,Major Renovation
+Kentron,"Verin Antarayin street, Yerevan","$440,000",Monolith,Yes,Available,5,117,4,2,from 3 m,2,Open balcony,Available,Major Renovation
+Shengavit,"Բագրատունյաց փողոց, Երևան","$80,000",Stone,No,Available,6,58,1,1,from 2.6 m,6,Multiple balconies,Not available,No Renovation
+Arabkir,"Մարշալ Բաղրամյան պողոտա, Yerevan","$135,000",Stone,No,Not available,4,39,1,1,from 3 m,4,Open balcony,Partial Furniture,Old Renovation
+Arabkir,"Kievyan street, Yerevan","$189,000",Panels,No,Available,12,100,3,1,from 2.75 m,8,Open balcony,Available,Designer Renovation
+Davitashen,"Davidashen 3-rd block, Yerevan","$140,000",Panels,No,Available,13,75,3,1,from 2.8 m,8,Open balcony,Available,Euro Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$255,000",Stone,No,Not available,5,138,3,1,from 3 m,3,Open balcony,Not available,Euro Renovation
+Davitashen,"Տիգրան Պետրոսյանի փողոց, Երևան","$179,000",Panels,No,Available,9,97,4,1,from 2.75 m,2,Open balcony,Available,Designer Renovation
+Davitashen,Yerevan › Davitashen,"$260,000",Panels,No,Available,9,96,4,1,from 2.75 m,2,Not available,Available,Major Renovation
+Avan,"Ծարավ աղբյուրի փողոց, Երևան","$460,000",Stone,No,Not available,2,120,4,2,from 2.8 m,2,Open balcony,By agreement,Major Renovation
+Malatia-Sebastia,"Gusan Sheram Street, Yerevan","$126,000",Panels,No,Available,9,74,3,1,from 2.8 m,2,Not available,Partial Furniture,Major Renovation
+Ajapnyak,"Ֆուչիկի փողոց, Երևան","$130,000",Stone,No,Not available,5,60,3,1,from 2.8 m,4,Not available,Available,Major Renovation
+Malatia-Sebastia,"Leningradyan street, Yerevan","$120,500",Monolith,No,Available,14,73,3,1,from 3 m,11,Open balcony,Not available,No Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$130,000",Panels,No,Available,9,88,4,1,from 2.75 m,2,Open balcony,Available,Major Renovation
+Davitashen,"Դավթաշենի 1-ին փողոց, Երևան","$170,000",Panels,No,Available,9,98,3,2,from 2.8 m,2,Closed balcony,Available,Major Renovation
+Arabkir,"Komitas Avenue, Yerevan","$117,000",Stone,No,Not available,5,56,2,1,from 2.75 m,5,Open balcony,Available,Old Renovation
+Avan,"Avan-Arinj 2nd micro, Yerevan","$105,000",Panels,No,Available,9,74,3,1,from 2.75 m,3,Closed balcony,Partial Furniture,Cosmetic Renovation
+Davitashen,"SasnaTsrer street, Yerevan","$299,000",Monolith,Yes,Available,14,110,4,1,from 3 m,14,Open balcony,Available,Major Renovation
+Avan,"Աճառյան փողոց, Երևան","$71,000",Stone,No,Not available,4,43,2,1,from 2.5 m,4,Not available,Partial Furniture,Cosmetic Renovation
+Kanaker-Zeytun,"Karapet Ulnetsi Street, Yerevan","$145,000",Stone,No,Available,7,55,2,1,from 2.8 m,5,Closed balcony,Available,Designer Renovation
+Shengavit,"Arshakuniats Avenue 155, Երևան","$83,000",Panels,No,Available,9,57,3,2,from 2.75 m,2,Closed balcony,Available,Euro Renovation
+Avan,"Charents block, Yerevan","$135,000",Panels,No,Available,14,82,4,1,from 2.75 m,5,Closed balcony,By agreement,Major Renovation
+Avan,"Isahakyan block, Yerevan","$118,000",Panels,No,Available,9,86,4,1,from 2.75 m,8,Closed balcony,By agreement,Major Renovation
+Davitashen,"Anastas Mikoyan street, Yerevan","$223,000",Monolith,Yes,Available,15,105,4,1,from 3 m,14,Open balcony,Available,Major Renovation
+Avan,"Ծարավ աղբյուրի փողոց, Երևան","$240,000",Monolith,Yes,Available,14,110,3,2,from 3 m,8,Open balcony,Available,Major Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$145,000",Stone,No,Available,5,72,4,1,from 3.2 m,2,Not available,Not available,Major Renovation
+Arabkir,Yerevan › Arabkir,"$150,000",Stone,No,Not available,5,111,5,1,from 2.7 m,5,Open balcony,Not available,No Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$118,000",Monolith,Yes,Available,12,70,3,1,from 3 m,12,Not available,Available,Major Renovation
+Arabkir,"Komitas Avenue, Yerevan","$110,000",Stone,No,Not available,5,50,3,1,from 3.5 m,5,Not available,Available,Designer Renovation
+Arabkir,"Gyulbenkyan street, Yerevan","$125,000",Panels,No,Available,9,60,2,1,from 2.75 m,2,Closed balcony,Available,Euro Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$82,000",Panels,No,Available,16,60,3,1,from 2.75 m,16,Not available,Available,Cosmetic Renovation
+Kanaker-Zeytun,"Tbilisian Highway, Yerevan","$80,000",Panels,No,Available,16,69,2,1,from 2.7 m,4,Multiple balconies,Partial Furniture,Euro Renovation
+Kentron,"Yervand Kochar street, Yerevan","$215,000",Panels,No,Available,9,96,3,1,from 2.75 m,6,Closed balcony,Partial Furniture,Designer Renovation
+Nor Nork,"Totovents street, Yerevan","$110,000",Stone,No,Not available,5,65,4,1,from 2.75 m,3,Not available,By agreement,Major Renovation
+Nor Nork,"Minsk Street, Yerevan","$69,000",Panels,No,Available,9,56,1,1,from 2.75 m,7,Closed balcony,Not available,Cosmetic Renovation
+Kanaker-Zeytun,"Azatutyan Avenue, Yerevan","$75,000",Panels,No,Available,9,43,1,1,from 2.75 m,6,Open balcony,Not available,No Renovation
+Malatia-Sebastia,"Օհանովի փողոց, Երևան","$98,000",Panels,No,Available,9,120,3,1,from 2.8 m,9,Closed balcony,Available,Major Renovation
+Nor Nork,"Բաղյան փողոց, Երևան","$83,000",Stone,No,Not available,5,58,2,1,from 2.75 m,1,Closed balcony,Available,Major Renovation
+Avan,"Hovhannisyan street, Yerevan","$100,000",Panels,No,Available,9,67,3,2,from 2.75 m,2,Closed balcony,Not available,Major Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$120,000",Panels,No,Available,14,80,3,1,from 2.8 m,10,Not available,Available,Euro Renovation
+Malatia-Sebastia,"Սվաճյան փողոց, Երևան","$90,000",Panels,No,Available,15,64,3,1,from 2.8 m,13,Not available,Not available,Cosmetic Renovation
+Nor Nork,"Գյուրջյան փողոց, Երևան","$129,000",Panels,No,Available,9,77,3,2,from 2.75 m,3,Closed balcony,Not available,Major Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$98,000",Panels,No,Available,10,72,2,1,from 2.7 m,6,Not available,By agreement,Old Renovation
+Nor Nork,"Lvovyan street, Yerevan","$70,000",Stone,No,Not available,5,45,1,1,from 2.75 m,4,Closed balcony,Available,Cosmetic Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$92,000",Panels,No,Available,11,72,2,1,from 2.7 m,7,Open balcony,By agreement,Old Renovation
+Kentron,"Rostom street, Yerevan","$390,000",Monolith,Yes,Available,9,165,4,2,from 3 m,9,Open balcony,Available,Major Renovation
+Ajapnyak,"Shinararneri street, Yerevan","$105,000",Stone,No,Not available,5,69,3,1,from 2.7 m,1,Not available,Available,Euro Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$77,000",Stone,No,Not available,5,59,3,1,from 2.8 m,5,Open balcony,Partial Furniture,Cosmetic Renovation
+Nor Nork,"Nansen street, Yerevan","$95,000",Stone,No,Not available,5,80,3,1,from 2.75 m,4,Multiple balconies,Not available,No Renovation
+Nor Nork,"Վիլնյուսի փողոց, Երևան","$85,000",Panels,No,Available,9,90,4,1,from 2.8 m,9,Open balcony,Not available,Cosmetic Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$84,000",Stone,No,Not available,5,58,2,1,from 2.7 m,5,Closed balcony,By agreement,Old Renovation
+Malatia-Sebastia,"Գուսան Շերամի փողոց, Երևան","$133,000",Panels,No,Available,9,88,4,2,from 2.8 m,4,Not available,Not available,Major Renovation
+Kentron,"Zakian street, Yerevan","$200,000",Stone,No,Not available,5,57,2,1,from 3 m,2,Not available,Available,Major Renovation
+Kentron,"Արշակունյաց պողոտա, Երևան","$255,000",Stone,No,Not available,4,111,4,1,from 3 m,2,Open balcony,Not available,Cosmetic Renovation
+Nor Nork,"Աշոտ Հովհաննիսյանի փողոց, Երևան","$70,000",Panels,No,Available,9,54,1,1,from 2.8 m,3,Closed balcony,By agreement,Major Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$110,000",Panels,No,Available,12,65,2,1,from 2.7 m,7,Multiple balconies,Available,Old Renovation
+Arabkir,"Kievyan street, Yerevan","$174,000",Stone,No,Not available,5,87,3,1,from 3.2 m,1,Not available,Available,Euro Renovation
+Nor Nork,"Gyurjyan street, Yerevan","$88,000",Panels,No,Available,9,60,2,1,from 2.8 m,5,Closed balcony,Partial Furniture,Major Renovation
+Kentron,"Ամիրյան փողոց, Երևան","$420,000",Monolith,Yes,Available,10,130,3,2,from 3 m,3,Multiple balconies,Available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$350,000",Stone,No,Not available,4,146,3,2,from 3.2 m,4,Open balcony,Available,Euro Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$113,000",Panels,No,Available,10,72,2,1,from 2.7 m,7,Closed balcony,By agreement,Major Renovation
+Kanaker-Zeytun,"Dro street, Yerevan","$82,000",Panels,No,Available,9,46,2,1,from 2.8 m,3,Not available,Available,Major Renovation
+Ajapnyak,"Լենինգրադյան փողոց, Երևան","$110,000",Monolith,Yes,Available,14,53,2,1,from 3 m,4,Open balcony,Not available,No Renovation
+Kentron,"Charents street, Yerevan","$650,000",Monolith,Yes,Available,10,262,5,3+,from 3 m,3,Open balcony,Available,Major Renovation
+Avan,"Hovhanisyan block, Yerevan","$127,000",Panels,No,Available,9,64,3,1,from 2.75 m,7,Closed balcony,Available,Euro Renovation
+Arabkir,"Komitas Avenue, Yerevan","$164,000",Stone,No,Not available,4,68,2,1,from 3.5 m,4,Closed balcony,Partial Furniture,Cosmetic Renovation
+Avan,"Hrachya Acharyan Street, Yerevan","$75,000",Monolith,Yes,Not available,4,40,2,1,from 3 m,2,Not available,Not available,No Renovation
+Nor Nork,"Galshoyan street, Yerevan","$77,000",Panels,No,Not available,5,64,2,1,from 2.75 m,4,Closed balcony,By agreement,Major Renovation
+Kentron,"Tumanyan street, Yerevan","$255,000",Stone,No,Not available,4,61,2,1,from 3.2 m,4,Open balcony,By agreement,Old Renovation
+Avan,"Duryan street, Yerevan","$128,000",Panels,No,Available,9,83,4,1,from 2.75 m,5,Open balcony,Partial Furniture,Major Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$75,000",Panels,No,Available,14,45,2,1,from 2.75 m,14,Not available,Partial Furniture,Major Renovation
+Nor Nork,"Բաղյան 2-րդ նրբանցք, Երևան","$83,000",Stone,No,Not available,5,58,2,1,from 2.75 m,1,Closed balcony,Not available,Major Renovation
+Nor Nork,"Շոպրոնի փողոց, Երևան","$83,000",Stone,No,Not available,5,50,2,1,from 2.75 m,3,Open balcony,Partial Furniture,Major Renovation
+Kanaker-Zeytun,"Karapet Ulnetsi Street, Yerevan","$192,000",Monolith,Yes,Available,15,64,2,1,from 3 m,12,Open balcony,Not available,Euro Renovation
+Avan,"Duryan street, Yerevan","$102,000",Panels,No,Available,9,73,3,1,from 2.75 m,1,Not available,Not available,Euro Renovation
+Davitashen,"Tigran Petrosyan street, Yerevan","$138,500",Panels,No,Available,9,67,3,1,from 2.75 m,1,Not available,Available,Euro Renovation
+Nor Nork,"Լյուքսեմբուրգ փողոցի 1-ին նրբանցք, Երևան","$83,000",Panels,No,Not available,5,74,3,1,from 2.75 m,4,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Երվանդ Քոչարի փողոց, Երևան","$120,000",Monolith,No,Available,10,46,1,1,from 2.75 m,5,Closed balcony,Not available,Old Renovation
+Nor Nork,"Lvovyan street, Yerevan","$230,000",Monolith,Yes,Available,16,98,3,2,from 3 m,12,Open balcony,Available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$450,000",Stone,No,Not available,4,190,3,1,from 3.5 m,4,Closed balcony,Available,Major Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$90,000",Panels,No,Available,16,93,4,1,from 2.75 m,12,Closed balcony,Not available,Old Renovation
+Arabkir,"Mamikonyants street 25, Yerevan","$230,000",Stone,No,Not available,5,73,3,1,from 3.2 m,5,Open balcony,Available,Major Renovation
+Kentron,"Koryun street, Yerevan","$250,000",Monolith,Yes,Available,9,92,3,2,from 2.8 m,7,Closed balcony,Available,Major Renovation
+Kentron,"Տիգրան Մեծի պողոտա 27Ա, Երևան","$159,900",Stone,No,Not available,5,52,2,1,from 3.2 m,2,Not available,Available,Designer Renovation
+Kentron,"Yervand Kochar street, Yerevan","$150,000",Panels,No,Available,9,80,3,1,from 2.8 m,8,Closed balcony,Not available,Old Renovation
+Kentron,"Northern Avenue, Yerevan","$1,300,000",Monolith,Yes,Available,7,208,4,2,from 3 m,2,Open balcony,Available,Major Renovation
+Ajapnyak,"Մարգարյան փողոցի 1-ին նրբանցք, Երևան","$75,000",Stone,No,Not available,4,58,2,1,from 2.5 m,3,Closed balcony,Not available,Old Renovation
+Arabkir,"Նիկողայոս Տիգրանյան փակուղի 8, Երևան","$170,000",Monolith,Yes,Available,12,59,2,1,from 2.8 m,10,Open balcony,Available,Designer Renovation
+Nor Nork,"Aksel Bakunts street, Yerevan","$52,000",Panels,No,Not available,5,30,1,1,from 2.6 m,4,Not available,Not available,Designer Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$350,000",Stone,No,Not available,4,146,3,2,from 3.2 m,4,Open balcony,Available,Euro Renovation
+Shengavit,"Arshakuniats Avenue, Yerevan","$113,000",Panels,No,Available,10,72,2,1,from 2.7 m,7,Closed balcony,By agreement,Major Renovation
+Kanaker-Zeytun,"Dro street, Yerevan","$82,000",Panels,No,Available,9,46,2,1,from 2.8 m,3,Not available,Available,Major Renovation
+Ajapnyak,"Լենինգրադյան փողոց, Երևան","$110,000",Monolith,Yes,Available,14,53,2,1,from 3 m,4,Open balcony,Not available,No Renovation
+Kentron,"Charents street, Yerevan","$650,000",Monolith,Yes,Available,10,262,5,3+,from 3 m,3,Open balcony,Available,Major Renovation
+Avan,"Hovhanisyan block, Yerevan","$127,000",Panels,No,Available,9,64,3,1,from 2.75 m,7,Closed balcony,Available,Euro Renovation
+Arabkir,"Komitas Avenue, Yerevan","$164,000",Stone,No,Not available,4,68,2,1,from 3.5 m,4,Closed balcony,Partial Furniture,Cosmetic Renovation
+Avan,"Hrachya Acharyan Street, Yerevan","$75,000",Monolith,Yes,Not available,4,40,2,1,from 3 m,2,Not available,Not available,No Renovation
+Nor Nork,"Galshoyan street, Yerevan","$77,000",Panels,No,Not available,5,64,2,1,from 2.75 m,4,Closed balcony,By agreement,Major Renovation
+Kentron,"Tumanyan street, Yerevan","$255,000",Stone,No,Not available,4,61,2,1,from 3.2 m,4,Open balcony,By agreement,Old Renovation
+Avan,"Duryan street, Yerevan","$128,000",Panels,No,Available,9,83,4,1,from 2.75 m,5,Open balcony,Partial Furniture,Major Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$75,000",Panels,No,Available,14,45,2,1,from 2.75 m,14,Not available,Partial Furniture,Major Renovation
+Nor Nork,"Բաղյան 2-րդ նրբանցք, Երևան","$83,000",Stone,No,Not available,5,58,2,1,from 2.75 m,1,Closed balcony,Not available,Major Renovation
+Nor Nork,"Շոպրոնի փողոց, Երևան","$83,000",Stone,No,Not available,5,50,2,1,from 2.75 m,3,Open balcony,Partial Furniture,Major Renovation
+Kanaker-Zeytun,"Karapet Ulnetsi Street, Yerevan","$192,000",Monolith,Yes,Available,15,64,2,1,from 3 m,12,Open balcony,Not available,Euro Renovation
+Avan,"Duryan street, Yerevan","$102,000",Panels,No,Available,9,73,3,1,from 2.75 m,1,Not available,Not available,Euro Renovation
+Davitashen,"Tigran Petrosyan street, Yerevan","$138,500",Panels,No,Available,9,67,3,1,from 2.75 m,1,Not available,Available,Euro Renovation
+Nor Nork,"Լյուքսեմբուրգ փողոցի 1-ին նրբանցք, Երևան","$83,000",Panels,No,Not available,5,74,3,1,from 2.75 m,4,Closed balcony,Not available,Cosmetic Renovation
+Kentron,"Երվանդ Քոչարի փողոց, Երևան","$120,000",Monolith,No,Available,10,46,1,1,from 2.75 m,5,Closed balcony,Not available,Old Renovation
+Nor Nork,"Lvovyan street, Yerevan","$230,000",Monolith,Yes,Available,16,98,3,2,from 3 m,12,Open balcony,Available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$450,000",Stone,No,Not available,4,190,3,1,from 3.5 m,4,Closed balcony,Available,Major Renovation
+Nor Nork,"Լվովյան փողոց 19, Երևան","$87,000",Stone,No,Not available,5,76,3,1,from 2.7 m,1,Closed balcony,Not available,Partial Renovation
+Kentron,"Zakian street, Yerevan","$189,000",Stone,No,Not available,5,66,2,1,from 3.5 m,3,Open balcony,Partial Furniture,Old Renovation
+Avan,"Avan-Arinj 1st micro, Yerevan","$65,000",Panels,No,Available,14,45,1,1,from 2.8 m,13,Not available,Available,Cosmetic Renovation
+Nor Nork,"Ashot Hovhannisyan Street, Yerevan","$67,000",Panels,No,Available,9,45,1,1,from 2.75 m,3,Closed balcony,By agreement,Major Renovation
+Nor Nork,"Minsk Street, Yerevan","$85,000",Panels,No,Available,9,85,3,1,from 2.8 m,1,Open balcony,By agreement,Major Renovation
+Nor Nork,"Աշոտ Հովհաննիսյանի փողոց, Երևան","$110,000",Panels,No,Available,9,78,3,1,from 2.8 m,3,Closed balcony,Not available,Major Renovation
+Kentron,"Վարդանանց փողոց, Երևան","$119,000",Panels,No,Available,10,43,1,1,from 2.7 m,5,Open balcony,Not available,Old Renovation
+Nor Nork,"Լվովյան փողոց, Երևան","$64,000",Panels,No,Available,12,41,1,1,from 2.8 m,10,Closed balcony,Available,Euro Renovation
+Nor Nork,"Galshoyan street, Yerevan","$62,000",Panels,No,Available,16,55,1,1,from 2.75 m,13,Closed balcony,Not available,No Renovation
+Kentron,"Փավստոս Բուզանդի փողոց, Երևան","$320,000",Monolith,Yes,Available,10,81,2,1,from 3 m,4,Open balcony,By agreement,Major Renovation
+Nor Nork,"Vilnyus street, Yerevan","$100,000",Panels,No,Available,9,85,4,1,from 2.8 m,5,Open balcony,By agreement,Major Renovation
+Erebuni,"Sasuntsi Davit Street, Yerevan","$120,000",Panels,No,Available,10,91,3,2,from 2.8 m,2,Open balcony,Available,Cosmetic Renovation
+Nor Nork,"Galshoyan street, Yerevan","$130,000",Monolith,No,Not available,5,75,3,1,from 2.75 m,3,Not available,Available,Major Renovation
+Kentron,"Դերենիկ Դեմիրճյան փողոց, Երևան","$300,000",Monolith,Yes,Available,6,65,2,1,from 3 m,6,Not available,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Ohanov street, Yerevan","$82,000",Stone,No,Not available,5,67,2,1,from 2.75 m,2,Closed balcony,Not available,Cosmetic Renovation
+Nor Nork,"Gyulikekhvyan street, Yerevan","27,500,000 ֏",Stone,No,Not available,5,48,1,1,from 2.8 m,4,Closed balcony,By agreement,Major Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$82,000",Stone,No,Not available,5,57,2,1,from 2.75 m,4,Open balcony,Not available,Partial Renovation
+Kentron,"Ձորափի փողոց, Երևան","$420,000",Monolith,Yes,Available,14,131,4,2,from 3 m,8,Multiple balconies,Available,Designer Renovation
+Nor Nork,"Գյուլիքեխվյան փողոց, Երևան","$67,000",Panels,No,Not available,5,55,3,1,from 2.75 m,1,Closed balcony,Not available,Old Renovation
+Malatia-Sebastia,"Kurghinyan lane, Yerevan","$110,000",Stone,No,Not available,5,109,3,1,from 3 m,4,Open balcony,Not available,Old Renovation
+Arabkir,"Marshal Baghramyan avenue, Yerevan","$178,000",Panels,No,Available,9,83,3,3+,from 2.8 m,4,Open balcony,Available,Euro Renovation
+Kentron,"Մարտիրոս Սարյանի փողոց, Երևան","$180,000",Panels,No,Available,10,70,4,1,from 2.8 m,10,Multiple balconies,Available,Major Renovation
+Ajapnyak,"Abelian street, Yerevan","$115,000",Stone,No,Not available,4,68,3,1,from 2.8 m,4,Closed balcony,Available,Partial Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$184,000",Monolith,Yes,Available,14,86,2,1,from 3.2 m,7,Open balcony,Available,Euro Renovation
+Ajapnyak,"Margarian street, Yerevan","$121,000",Stone,No,Not available,5,81,3,1,from 2.8 m,3,Open balcony,Available,Euro Renovation
+Ajapnyak,"Բաշինջաղյան փակուղի, Երևան","$117,000",Panels,No,Not available,14,97,3,1,from 3 m,12,Open balcony,Available,Partial Renovation
+Nor Nork,"Վիլնյուսի փողոց, Նոր Նորքի 9-րդ զանգված","$110,000",Panels,No,Available,9,98,3,1,from 2.75 m,4,Multiple balconies,Not available,Partial Renovation
+Arabkir,"Griboyedov street, Yerevan","$260,000",Stone,No,Not available,5,148,4,2,from 2.75 m,3,Not available,By agreement,Euro Renovation
+Arabkir,"Aghbyur Serob street, Yerevan","$270,000",Stone,No,Not available,5,113,4,1,from 2.75 m,4,Open balcony,Not available,Euro Renovation
+Arabkir,"Vagharsh Vagharshyan street, Yerevan","$179,000",Panels,No,Available,9,78,3,1,from 2.8 m,6,Open balcony,Available,Cosmetic Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$350,000",Stone,No,Not available,5,94,3,2,from 3 m,3,Open balcony,Not available,Cosmetic Renovation
+Kentron,"Alek Manoukyan street, Yerevan","$225,000",Stone,No,Not available,5,78,3,1,from 3 m,2,Open balcony,Not available,Major Renovation
+Kentron,"Northern Avenue, Yerevan","$850,000",Monolith,Yes,Available,10,140,3,2,from 3 m,7,Open balcony,Available,Euro Renovation
+Nor Nork,"Gai avenue, Yerevan","$105,000",Panels,No,Available,9,78,3,1,from 2.8 m,6,Closed balcony,Available,Major Renovation
+Ajapnyak,"Bashinjaghyan street, Yerevan","$110,000",Stone,No,Not available,5,84,3,1,from 2.75 m,5,Closed balcony,Available,Old Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$92,000",Stone,No,Not available,5,39,2,1,from 2.8 m,5,Not available,Not available,Major Renovation
+Nor Nork,"Լվովյան փողոց 23/1, Երևան","$54,000",Stone,No,Not available,5,34,1,1,from 2.75 m,1,Closed balcony,Partial Furniture,Major Renovation
+Kentron,Yerevan › Kentron,"$265,000",Panels,No,Available,11,85,3,1,from 2.75 m,4,Open balcony,Available,Euro Renovation
+Malatia-Sebastia,"Zoravar Andranik street, Yerevan","$170,000",Panels,No,Available,14,96,3,2,from 2.75 m,10,Not available,Available,Major Renovation
+Ajapnyak,"Leningradyan street, Yerevan","$117,000",Stone,No,Available,6,59,2,1,from 3.2 m,4,Not available,Available,Euro Renovation
+Kentron,"Sayat Nova avenue, Yerevan","$210,000",Panels,No,Available,11,100,3,1,from 2.8 m,11,Open balcony,Not available,No Renovation
+Ajapnyak,"Abelyan Street, Yerevan","$115,000",Stone,No,Not available,4,74,3,1,from 2.8 m,4,Closed balcony,Partial Furniture,Partial Renovation
+Avan,"Charents block, Yerevan","$70,000",Panels,No,Not available,14,65,1,1,from 2.75 m,7,Closed balcony,Not available,Partial Renovation
+Nor Nork,"Դավիթ Մալյան փողոց, Երևան","$83,000",Stone,No,Not available,5,76,3,1,from 2.75 m,4,Open balcony,Not available,Partial Renovation
+Arabkir,"Mamikonyants street, Yerevan","$186,000",Monolith,Yes,Available,12,78,2,1,from 3 m,2,Not available,Available,Euro Renovation
+Nor Nork,"Մառի փողոց 16, Երևան","$95,000",Panels,No,Not available,5,74,3,1,from 2.75 m,3,Closed balcony,Available,Major Renovation
+Arabkir,"Komitas Ave, Yerevan","$190,000",Monolith,Yes,Available,16,56,3,2,from 3 m,15,Open balcony,Available,Designer Renovation
+Arabkir,"Griboyedov street, Yerevan","$215,000",Monolith,Yes,Available,12,78,3,1,from 3 m,5,Open balcony,Available,Designer Renovation
+Arabkir,"Avet Avetisyan Street, Yerevan","$143,000",Panels,No,Not available,16,91,4,1,from 2.75 m,9,Closed balcony,Available,Partial Renovation
+Ajapnyak,"Նորաշեն թաղամաս, Երևան","$138,000",Monolith,Yes,Available,12,110,4,1,from 2.75 m,9,Not available,Available,Cosmetic Renovation
+Nor Nork,"Aksel Bakunts street, Yerevan","$80,000",Panels,No,Not available,5,75,3,1,from 2.75 m,1,Closed balcony,Partial Furniture,Old Renovation
+Kanaker-Zeytun,"Hrachya Nersisyan street, Yerevan","$52,000",Stone,No,Not available,4,27,1,1,from 2.7 m,4,Open balcony,Not available,No Renovation
+Nor Nork,"Artem Mikoyan street, Yerevan","$88,000",Stone,No,Not available,5,85,3,1,from 2.75 m,5,Closed balcony,Not available,Major Renovation
+Nor Nork,"Աշոտ Հովհաննիսյանի փողոց, Երևան","$75,000",Panels,No,Available,9,60,2,1,from 2.75 m,4,Closed balcony,Not available,No Renovation
+Kanaker-Zeytun,"David Anhaght street, Yerevan","$85,000",Stone,Yes,Not available,5,67,2,1,from 2.7 m,5,Closed balcony,By agreement,Major Renovation
+Nor Nork,"Aksel Bakunts street, Yerevan","$90,000",Panels,No,Available,14,83,3,1,from 2.7 m,1,Not available,By agreement,Major Renovation
+Avan,"Avan-Arinj 1st Microdistrict, Yerevan","$79,000",Panels,No,Available,9,70,2,1,from 2.75 m,8,Closed balcony,By agreement,Major Renovation
+Arabkir,"Grigor Artsrunu street 90, Yerevan","$130,000",Panels,No,Available,14,79,3,1,from 2.8 m,13,Closed balcony,By agreement,Euro Renovation
+Nor Nork,"Jughayi street, Yerevan","$76,000",Panels,No,Not available,5,53,2,1,from 2.7 m,3,Closed balcony,Available,Euro Renovation
+Avan,"Hovhanisyan block, Yerevan","$73,000",Panels,No,Available,9,55,2,1,from 2.75 m,3,Closed balcony,Not available,Euro Renovation
+Kentron,"Yeznik Koghbatsi street, Yerevan","$121,000",Panels,No,Available,9,50,2,1,from 2.8 m,4,Closed balcony,Not available,Major Renovation
+Avan,"Avan-Arinj, Երևան","$80,000",Panels,Yes,Available,9,60,1,1,from 2.6 m,2,Closed balcony,Not available,Major Renovation
+Avan,"Narekatsi block, Երևան","$88,000",Panels,No,Not available,16,83,3,1,from 2.75 m,14,Closed balcony,Available,Cosmetic Renovation
+Avan,"Shovroyan street, Yerevan","28,500,000 ֏",Panels,No,Available,9,65,2,1,from 2.75 m,7,Closed balcony,Not available,Euro Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$81,000",Panels,No,Not available,5,70,1,1,from 2.7 m,1,Closed balcony,Not available,Euro Renovation
+Nor Nork,"Մոլդովական, Երևան","$82,000",Panels,No,Available,9,67,2,1,from 2.75 m,8,Closed balcony,By agreement,Euro Renovation
+Avan,"Tumanyan District, Yerevan","$90,000",Panels,No,Available,9,80,3,1,from 2.7 m,4,Closed balcony,Not available,Major Renovation
+Avan,"Kuchak District, Yerevan","$95,000",Panels,No,Available,9,98,4,1,from 2.75 m,4,Closed balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$89,000",Panels,No,Not available,13,100,3,1,from 2.75 m,11,Closed balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$78,000",Stone,No,Not available,5,72,3,1,from 2.6 m,1,Not available,Not available,Euro Renovation
+Nor Nork,"Ashot Hovhannisyan Street, Yerevan","$99,000",Stone,No,Not available,5,90,4,1,from 2.75 m,2,Open balcony,By agreement,Major Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$110,000",Monolith,Yes,Available,14,62,2,1,from 2.8 m,7,Open balcony,Not available,Euro Renovation
+Kanaker-Zeytun,"Davit Anhaght Street, Yerevan","$85,000",Stone,No,Not available,5,65,2,1,from 2.7 m,4,Closed balcony,Available,Euro Renovation
+Erebuni,"Այվազովսկու փողոց, Երևան","$87,000",Panels,No,Available,9,78,3,1,from 2.8 m,7,Closed balcony,Available,Cosmetic Renovation
+Avan,"Իսահակյան թաղամաս 5/5, Երևան","$220,000",Stone,No,Not available,2,130,4,2,from 3.2 m,2,Open balcony,Partial Furniture,Major Renovation
+Davitashen,"Տիգրան Պետրոսյանի փողոց, Երևան","$122,000",Monolith,Yes,Available,5,62,2,1,from 3 m,2,Open balcony,Available,Major Renovation
+Avan,"Tsarav Aghbyuri Street 55/26, Yerevan","$125,000",Panels,Yes,Available,14,56,2,1,from 2.8 m,5,Open balcony,Available,Euro Renovation
+Ajapnyak,"Ֆուչիկի փողոց 1/1, Երևան","$117,000",Monolith,Yes,Available,13,69,2,1,from 3.2 m,10,Open balcony,Not available,No Renovation
+Ajapnyak,"Հալաբյան փողոց, Երևան","$97,000",Stone,No,Not available,4,39,1,1,from 2.75 m,2,Not available,Available,Designer Renovation
+Shengavit,"Չեխովի փողոց, Երևան","$105,000",Monolith,Yes,Available,10,84,3,1,from 3.2 m,2,Open balcony,Not available,No Renovation
+Ajapnyak,"Leningradyan St, Yerevan","$105,000",Monolith,Yes,Available,14,54,2,1,from 2.8 m,6,Open balcony,Not available,No Renovation
+Nor Nork,"Moldovakan street, Yerevan","$72,000",Panels,No,Available,9,67,3,1,from 2.75 m,9,Closed balcony,Not available,No Renovation
+Nork-Marash,"Garegin Hovsepyan Street, Երևան","$199,900",Stone,Yes,Available,5,114,3,2,from 2.8 m,2,Multiple balconies,Partial Furniture,Major Renovation
+Malatia-Sebastia,"Admiral Isakov Avenue 50/7, Yerevan","$90,000",Panels,No,Available,9,78,3,1,from 2.75 m,6,Open balcony,Available,Euro Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$81,000",Panels,No,Not available,5,70,1,1,from 2.7 m,1,Closed balcony,Not available,Euro Renovation
+Nor Nork,"Մոլդովական, Երևան","$82,000",Panels,No,Available,9,67,2,1,from 2.75 m,8,Closed balcony,By agreement,Euro Renovation
+Avan,"Tumanyan District, Yerevan","$90,000",Panels,No,Available,9,80,3,1,from 2.7 m,4,Closed balcony,Not available,Major Renovation
+Avan,"Kuchak District, Yerevan","$95,000",Panels,No,Available,9,98,4,1,from 2.75 m,4,Closed balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$89,000",Panels,No,Not available,13,100,3,1,from 2.75 m,11,Closed balcony,Not available,Partial Renovation
+Kanaker-Zeytun,"Rubiniants street, Yerevan","$78,000",Stone,No,Not available,5,72,3,1,from 2.6 m,1,Not available,Not available,Euro Renovation
+Nor Nork,"Ashot Hovhannisyan Street, Yerevan","$99,000",Stone,No,Not available,5,90,4,1,from 2.75 m,2,Open balcony,By agreement,Major Renovation
+Avan,"Tsarav Aghbyuri Street, Yerevan","$110,000",Monolith,Yes,Available,14,62,2,1,from 2.8 m,7,Open balcony,Not available,Euro Renovation
+Kanaker-Zeytun,"Davit Anhaght Street, Yerevan","$85,000",Stone,No,Not available,5,65,2,1,from 2.7 m,4,Closed balcony,Available,Euro Renovation
+Erebuni,"Այվազովսկու փողոց, Երևան","$87,000",Panels,No,Available,9,78,3,1,from 2.8 m,7,Closed balcony,Available,Cosmetic Renovation
+Avan,"Իսահակյան թաղամաս 5/5, Երևան","$220,000",Stone,No,Not available,2,130,4,2,from 3.2 m,2,Open balcony,Partial Furniture,Major Renovation
+Nor Nork,"Թոթովենցի փողոց, Երևան","$100,000",Stone,No,Not available,5,60,2,1,from 2.75 m,4,Multiple balconies,Available,Euro Renovation
+Erebuni,"Artsakh avenue, Yerevan","$125,000",Panels,No,Available,14,102,4,2,from 2.8 m,14,Closed balcony,Available,Partial Renovation
+Kentron,"Nalbandyan street, Yerevan","$127,000",Stone,No,Not available,4,39,1,1,from 3 m,2,Open balcony,Not available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$185,000",Panels,No,Available,11,85,3,1,from 2.8 m,9,Multiple balconies,Not available,Old Renovation
+Kentron,"Vardanants Street, Երևան","$98,000",Panels,No,Available,10,42,1,1,from 2.7 m,10,Not available,By agreement,Euro Renovation
+Arabkir,"Mamikonyants street, Yerevan","$190,000",Monolith,Yes,Available,14,88,3,2,from 3 m,11,Not available,Not available,No Renovation
+Davitashen,"Տիգրան Պետրոսյան փողոց, Երևան","$208,000",Monolith,Yes,Available,5,131,4,2,from 3 m,4,Open balcony,Not available,No Renovation
+Kentron,"Ավետիք Իսահակյան փողոց, Երևան","$255,000",Stone,No,Not available,5,101,3,1,from 3.2 m,5,Not available,By agreement,Major Renovation
+Davitashen,"Դավթաշեն 1-ին թաղամաս, Երևան","$160,000",Monolith,Yes,Available,13,64,3,1,from 2.8 m,7,Open balcony,Available,Euro Renovation
+Davitashen,"Դավթաշեն 3-րդ թաղամաս, Երևան","$227,000",Monolith,Yes,Available,14,72,2,1,from 3 m,10,Open balcony,Available,Designer Renovation
+Davitashen,"Sasna Tsrer Street, Yerevan","$320,000",Monolith,Yes,Available,14,112,3,2,from 3 m,8,Open balcony,Available,Designer Renovation
+Davitashen,"Ձոր 1 թաղամաս, Երևան","$142,000",Monolith,Yes,Not available,4,100,3,1,from 3 m,4,Open balcony,By agreement,Euro Renovation
+Davitashen,"Անաստաս Միկոյան փողոց, Երևան","$257,000",Monolith,Yes,Available,15,105,4,2,from 3 m,4,Open balcony,Partial Furniture,Euro Renovation
+Kentron,"Tpagrichner Street, Yerevan","€136,000",Stone,No,Not available,4,43,2,1,from 3 m,1,Closed balcony,Not available,Old Renovation
+Kentron,"Argishti street 9, Yerevan","$128,000",Monolith,Yes,Available,14,55,2,1,from 3 m,6,Open balcony,Not available,Major Renovation
+Arabkir,"Vagharsh Vagharshyan street, Yerevan","$83,000",Stone,No,Not available,5,32,1,1,from 2.6 m,4,Open balcony,By agreement,Euro Renovation
+Davitashen,"Անաստաս Միկոյանի փողոց, Երևան","$150,000",Monolith,Yes,Available,15,105,4,2,from 3 m,2,Open balcony,Not available,No Renovation
+Arabkir,"Nikoghayos Adonts Street, Yerevan","$330,000",Monolith,Yes,Available,8,124,3,2,from 3 m,3,Multiple balconies,Not available,No Renovation
+Avan,"Ծարավ աղբյուրի փողոց, Երևան","$109,900",Monolith,Yes,Available,14,76,3,2,from 3 m,3,Multiple balconies,Not available,No Renovation
+Kentron,"Սարյանի փողոց, Երևան","$178,000",Stone,No,Not available,4,53,2,1,from 2.8 m,2,Open balcony,Available,Cosmetic Renovation
+Kentron,"Vardanants Street, Yerevan","$339,000",Stone,No,Available,6,100,3,1,from 2.8 m,3,Not available,Available,Major Renovation
+Kentron,"Abovyan street, Yerevan","$450,000",Monolith,Yes,Available,6,80,3,1,from 2.8 m,6,Not available,Available,Euro Renovation
+Kentron,"Փավստոս Բուզանդի փողոց, Երևան","$320,000",Monolith,Yes,Available,9,81,2,2,from 3 m,4,Open balcony,Available,Major Renovation
+Kentron,"Արգիշտի փողոց, Երևան","$440,000",Monolith,Yes,Available,14,175,4,3+,from 3 m,12,Open balcony,Available,Major Renovation
+Kentron,"Vardanants Street 16/1, Yerevan","$450,000",Stone,No,Not available,5,86,3,2,from 3 m,2,Open balcony,Available,Major Renovation
+Kentron,"Улица Московян 8, Ереван","$250,000",Stone,No,Not available,5,50,2,1,from 3 m,2,Open balcony,Available,Major Renovation
+Kentron,"Վերին Անտառային փողոց, Երևան","$490,000",Stone,Yes,Available,5,152,4,3+,from 3 m,4,Closed balcony,Available,Major Renovation
+Arabkir,"Azatutyan Avenue 12, Yerevan","53,800,000 ֏",Stone,No,Not available,4,65,2,1,from 3 m,3,Closed balcony,Available,Major Renovation
+Arabkir,"Sevkaretsi Sako street 30, Yerevan","$210,000",Monolith,Yes,Available,6,90,3,2,from 3 m,1,Multiple balconies,Partial Furniture,Major Renovation
+Kentron,"Parpetsi Street, Yerevan","$118,000",Panels,No,Available,9,37,1,1,from 2.8 m,7,Not available,Partial Furniture,Partial Renovation
+Nor Nork,"Nansen street, Yerevan","$64,999",Panels,No,Not available,5,56,2,1,from 2.6 m,1,Closed balcony,Not available,Old Renovation
+Kentron,"Khorenatsi street, Yerevan","$124,000",Panels,No,Available,12,65,3,1,from 2.7 m,1,Not available,Partial Furniture,Cosmetic Renovation
+Kanaker-Zeytun,"Karapet Ulnetsi street, Երևան","$370,000",Monolith,Yes,Available,11,110,3,1,from 3 m,7,Open balcony,Available,Designer Renovation
+Shengavit,"Մանանդյան փողոց 1/2, Երևան","$150,000",Panels,No,Available,9,80,3,1,from 2.8 m,7,Open balcony,Available,Partial Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$94,000",Stone,No,Not available,5,32,1,1,from 3 m,2,Not available,Available,Designer Renovation
+Kentron,"Արամի փողոց, Երևան","$985,000",Monolith,Yes,Available,23,206,4,3+,from 3 m,21,Open balcony,Available,Designer Renovation
+Arabkir,"Արամ Խաչատրյանի փողոց, Երևան","$374,000",Monolith,Yes,Available,13,103,4,2,from 3 m,5,Open balcony,Available,Major Renovation
+Kentron,"Argishti street, Yerevan","$420,000",Monolith,Yes,Available,14,113,4,3+,from 3 m,11,Not available,Available,Designer Renovation
+Kentron,"Լեոյի փողոց, Երևան","$205,000",Stone,No,Not available,5,62,3,1,from 2.8 m,3,Open balcony,Partial Furniture,Designer Renovation
+Kentron,"Pavstos Buzand Street, Yerevan","$455,000",Monolith,Yes,Available,15,107,3,2,from 3 m,11,Open balcony,Not available,No Renovation
+Kentron,"Tigran Mets Avenue, Yerevan","$265,000",Stone,No,Not available,4,96,3,1,from 3.2 m,4,Not available,Available,Designer Renovation
+Kentron,"Yekmalyan street, Yerevan","$350,000",Monolith,Yes,Available,10,80,3,2,from 3 m,3,Not available,By agreement,Designer Renovation
+Erebuni,"Nor-Aresh 42th street, Yerevan","$83,000",Stone,No,Not available,5,80,3,1,from 2.75 m,2,Not available,By agreement,Partial Renovation
+Kentron,Yerevan › Kentron,"$215,000",Monolith,Yes,Available,7,94,3,1,from 3 m,7,Not available,Available,Major Renovation
+Kentron,"Tamanyan street, Yerevan","$360,000",Stone,No,Not available,5,98,4,1,from 2.8 m,2,Open balcony,Partial Furniture,Major Renovation
+Arabkir,"Hrachya Kochar Street, Yerevan","$116,000",Stone,No,Not available,5,59,2,1,from 2.7 m,5,Not available,Not available,Major Renovation
+Kentron,"Փավստոս Բուզանդի փողոց, Երևան","$300,000",Monolith,Yes,Available,17,59,2,1,from 3 m,5,Open balcony,Available,Major Renovation
+Avan,"Մհեր Մկրտչյան թաղ. 1-ին փողոց, Ավան","$150,000",Monolith,Yes,Not available,3,52,2,1,from 3 m,1,Open balcony,Available,Major Renovation
+Kentron,"Marshal Baghramyan avenue, Yerevan","$215,000",Stone,No,Not available,4,89,3,1,from 3.2 m,4,Open balcony,By agreement,Major Renovation
+Kentron,"Tsaturyan Street, Yerevan","$167,000",Panels,No,Available,12,96,3,2,from 2.8 m,1,Open balcony,By agreement,Euro Renovation
+Kentron,"Pavstos Buzand Street, Yerevan","$240,000",Monolith,Yes,Available,17,45,2,1,from 3 m,5,Not available,Available,Designer Renovation
+Kentron,"Aygestan 10th street, Yerevan","$135,000",Panels,No,Available,9,64,2,1,from 2.8 m,9,Open balcony,Not available,Major Renovation
+Arabkir,"Azatutyan Avenue, Yerevan","$130,000",Stone,No,Not available,5,39,2,1,from 3 m,4,Open balcony,Available,Major Renovation
+Kentron,"Grigor Lusavorich street, Yerevan","$155,000",Stone,No,Not available,5,54,2,1,from 2.8 m,5,Open balcony,Partial Furniture,Euro Renovation
+Kentron,"Վերին Անտառային փողոց, Երևան","$305,000",Monolith,Yes,Available,4,84,3,1,from 3.2 m,4,Open balcony,Available,Major Renovation
+Arabkir,"Shahsuvaryan street, Yerevan","$210,000",Stone,No,Not available,3,152,6,2,from 3.2 m,3,Multiple balconies,By agreement,Old Renovation
+Kentron,"Teryan street, Yerevan","$460,000",Monolith,Yes,Available,10,120,3,2,from 3 m,9,Not available,Available,Designer Renovation
+Kentron,"Saryan Street, Yerevan","$230,000",Stone,No,Available,7,77,3,1,from 2.7 m,7,Closed balcony,Available,Designer Renovation
+Avan,"Մարշալ Խուդյակովի փողոց, Երևան","$125,000",Panels,No,Available,9,86,4,1,from 2.7 m,3,Closed balcony,Available,Major Renovation
+Shengavit,"Taronts street 1st Lane, Yerevan","$130,000",Cassette,No,Not available,4,91,3,1,from 2.6 m,1,Not available,Partial Furniture,Major Renovation
+Erebuni,"Էրեբունու փողոց, Երևան","$165,000",Monolith,Yes,Available,15,70,2,1,from 3 m,14,Open balcony,Available,Major Renovation
+Kentron,"Argishti street, Yerevan","$135,000",Monolith,Yes,Available,14,35,1,1,from 3 m,2,Open balcony,Available,Major Renovation
+Kentron,"Մովսես Խորենացու փողոց, Երևան","$101,000",Panels,No,Available,16,73,2,1,from 2.75 m,10,Open balcony,By agreement,Old Renovation
+Arabkir,"Komitas Avenue, Yerevan","$158,000",Panels,No,Available,9,87,3,1,from 2.75 m,1,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Kievyan street, Yerevan","$110,000",Panels,No,Available,9,54,1,1,from 2.75 m,3,Not available,By agreement,Cosmetic Renovation
+Kanaker-Zeytun,"Կարապետ Ուլնեցու փողոց, Երևան","$650,000",Monolith,Yes,Available,16,163,5,2,from 3.5 m,16,Open balcony,Not available,No Renovation
+Erebuni,"Erebuni street, Yerevan","$113,000",Stone,No,Not available,5,76,3,1,from 2.8 m,2,Not available,Not available,Cosmetic Renovation
+Kentron,"Paronyan street, Yerevan","$85,000",Stone,No,Not available,3,32,1,1,from 3 m,3,Not available,Not available,Cosmetic Renovation
+Nor Nork,"Moldovakan street, Yerevan","$100,000",Panels,No,Available,9,69,3,1,from 2.75 m,6,Not available,By agreement,Cosmetic Renovation
+Kanaker-Zeytun,"Karapet Ulnetsi Street, Yerevan","$170,000",Stone,No,Available,6,101,4,2,from 2.8 m,6,Open balcony,Available,Euro Renovation
+Arabkir,"Nikoghayos Adonts street, Yerevan","$240,000",Monolith,Yes,Available,18,98,4,1,from 3 m,4,Multiple balconies,Not available,Major Renovation
+Kentron,"Ռաֆայել Իսրաելյան փողոց, Երևան","$140,000",Panels,No,Available,9,55,1,1,from 2.8 m,7,Closed balcony,Not available,Cosmetic Renovation
+Erebuni,"Էրեբունու փողոց, Երևան","$215,000",Monolith,Yes,Available,15,80,3,1,from 3 m,11,Open balcony,By agreement,Major Renovation
+Erebuni,"Erebuni street, Yerevan","$198,600",Stone,No,Not available,5,96,3,1,from 2.8 m,5,Open balcony,By agreement,Cosmetic Renovation
+Kentron,"Saryan Street, Yerevan","$450,000",Monolith,Yes,Available,12,127,4,2,from 3 m,3,Open balcony,Available,Major Renovation
+Erebuni,"Artsakh avenue, Yerevan","$87,000",Stone,No,Not available,5,57,2,1,from 2.8 m,5,Not available,Partial Furniture,Partial Renovation
+Nor Nork,"Մոլդովական փողոց, Երևան","$76,500",Panels,No,Available,5,52,2,1,from 2.7 m,4,Not available,By agreement,Old Renovation
+Kentron,"Hin Yerevantsu street, Yerevan","$1,000,000",Monolith,Yes,Available,12,160,4,2,from 3 m,2,Multiple balconies,Available,Major Renovation
+Kentron,"Mesrop Mashtots Avenue, Yerevan","$153,000",Stone,No,Not available,4,40,1,1,from 3 m,3,Open balcony,By agreement,Major Renovation
+Kentron,"Tpagrichner Street, Yerevan","$255,000",Stone,No,Not available,4,94,4,2,from 3 m,1,Not available,By agreement,Old Renovation
+Kentron,"Agatangeghos Street, Yerevan","$193,800",Panels,No,Available,11,83,3,1,from 2.8 m,5,Open balcony,Available,Major Renovation
+Nor Nork,"Nansen street lane, Yerevan","$123,000",Panels,No,Not available,5,78,3,1,from 2.6 m,5,Closed balcony,Available,Cosmetic Renovation
+Nor Nork,"Minsk Street, Yerevan","$120,000",Panels,No,Available,9,93,4,2,from 2.75 m,7,Open balcony,Available,Partial Renovation
+Kentron,"Amiryan Street, Yerevan","$550,000",Stone,No,Not available,4,172,6,2,from 3.2 m,4,Open balcony,Available,Old Renovation
+Kentron,"Փավստոս Բուզանդի փողոց, Երևան","$330,000",Monolith,Yes,Available,17,49,2,1,from 3 m,6,Open balcony,Available,Designer Renovation
